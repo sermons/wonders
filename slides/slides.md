@@ -10,7 +10,6 @@
 1. **Word**: "Immanuel" [(v19-22)](# "ref")
 
 >>>
-        #ucbc #sermon #FEC #Bethel #RCMB #NSPG
 
 * Isaiah: a prophet & his family amidst unstable times
 * purpose of family: witness of God's power 
