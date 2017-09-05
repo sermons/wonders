@@ -1,18 +1,18 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/wonders",
+  "repository": "sermons/wonders",
+  "description": "Is8:16-22 For Signs and Wonders",
   "keywords": [
     "slides",
-    "lectures",
+    "sermon",
     "talks",
     "ppt"
   ],
   "version": "1.5.4",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "wonders.seanho.com",
+    "cname": "wonders.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com:8443/",
       "id": "22bc761ffc97809b"
@@ -23,14 +23,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Fellowship Baptist Church",
+        "city": "Aldergrove",
+        "date": "2017-09-24",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "css": [
       {
