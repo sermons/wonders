@@ -145,7 +145,7 @@ therefore also through Him is our  <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Is our family **waiting** for God to save His **remnant**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
@@ -225,7 +225,7 @@ who dwells on Mount Zion.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# What is my family a **testimony** of?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
@@ -295,7 +295,7 @@ and shall call his name **Immanuel**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Does my family point to God's **light** in this **dark** world?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
