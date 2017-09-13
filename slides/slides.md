@@ -89,7 +89,7 @@ And they will be thrust into thick **darkness**.
   + *"She-ar Yashub"*
 1. The **Wonders** of God's Judgment [(v18)](# "ref")
   + *"Maher-Shalal Chash-Baz"*
-1. The **Word** Dwelt Among Us [(v19-22)](# "ref")
+1. The **Word** Dwelling Among Us [(v19-22)](# "ref")
   + *"Immanuel"*
 
 >>>
@@ -153,9 +153,12 @@ therefore also through Him is our  <br/>
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
-1. Waiting: "She-ar Yashub" [(v16-17)](# "ref")
-1. **Wonders: "Maher-Shalal Chash-Baz"** [(v18)](# "ref")
-1. Word: "Immanuel" [(v19-22)](# "ref")
+1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
+  + "She-ar Yashub"
+1. **The Wonders of God's Judgment** [(v18)](# "ref")
+  + *"Maher-Shalal Chash-Baz"*
+1. The Word Dwelling Among Us [(v19-22)](# "ref")
+  + "Immanuel"
 
 ---
 Behold, I and the **children** <br/>
@@ -233,9 +236,12 @@ who dwells on Mount Zion.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
-1. Waiting: "She-ar Yashub" [(v16-17)](# "ref")
-1. Wonders: "Maher-Shalal Chash-Baz" [(v18)](# "ref")
-1. **Word: "Immanuel"** [(v19-22)](# "ref")
+1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
+  + "She-ar Yashub"
+1. The Wonders of God's Judgment [(v18)](# "ref")
+  + "Maher-Shalal Chash-Baz"
+1. **The Word Dwelling Among Us** [(v19-22)](# "ref")
+  + *"Immanuel"*
 
 >>>
 + where to find help? Source of **security**? 
