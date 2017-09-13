@@ -85,9 +85,12 @@ And they will be thrust into thick **darkness**.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## For Signs and Wonders [(Is8)](# "ref")
-1. **Waiting**: "She-ar Yashub" [(v16-17)](# "ref")
-1. **Wonders**: "Maher-Shalal Chash-Baz" [(v18)](# "ref")
-1. **Word**: "Immanuel" [(v19-22)](# "ref")
+1. The Remnant **Waiting** Upon the Lord [(v16-17)](# "ref")
+  + *"She-ar Yashub"*
+1. The **Wonders** of God's Judgment [(v18)](# "ref")
+  + *"Maher-Shalal Chash-Baz"*
+1. The **Word** Dwelt Among Us [(v19-22)](# "ref")
+  + *"Immanuel"*
 
 >>>
 + calling: death of Uzziah
