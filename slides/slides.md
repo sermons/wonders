@@ -1,4 +1,13 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> data-state="title" -->
+# Welcome
+## Aldergrove First Baptist
+### 24 Sep 2017
+
+---
+## 597 Take My Life and Let It Be
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 # For Signs and Wonders
 ## Isaiah 8:16-22
 
@@ -151,6 +160,9 @@ therefore also through Him is our  <br/>
 # Is our family **waiting** for God to save His **remnant**?
 
 ---
+## 581 'Tis So Sweet to Trust in Jesus
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
@@ -232,6 +244,9 @@ who dwells on Mount Zion.
 ---
 <!-- .slide: data-background="white" -->
 # What is my family a **testimony** of?
+
+---
+## #11 Come, Thou Fount
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
@@ -319,7 +334,11 @@ who dwells on Mount Zion.
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
 ---
-## Fanny Crosby
+## #441 Rescue the Perishing
+Fanny Crosby
+
+Rescue the perishing, care for the dying, <br/>
+Jesus is merciful, Jesus will save.
 
 ******
 Rescue the perishing, care for the dying, <br/>
