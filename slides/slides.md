@@ -14,7 +14,8 @@ who ever lives and pleads for me.
 **V1** C1 V2 C2 V3 C3 <br/>
 Before the Throne of God Above <br/>
 Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
-&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna <br>
+CCLI licence 265772 (AFBC)
 </div>
 
 ******
@@ -27,9 +28,7 @@ no tongue can bid me thence depart.
 
 <div class="caption">
 V1 **C1** V2 C2 V3 C3 <br/>
-Before the Throne of God Above <br/>
-Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
-&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+Before the Throne of God Above
 </div>
 
 ******
@@ -41,9 +40,7 @@ who made an end of all my sin.
 
 <div class="caption">
 V1 C1 **V2** C2 V3 C3 <br/>
-Before the Throne of God Above <br/>
-Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
-&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+Before the Throne of God Above
 </div>
 
 ******
@@ -56,9 +53,7 @@ to look on Him and pardon me.
 
 <div class="caption">
 V1 C1 V2 **C2** V3 C3 <br/>
-Before the Throne of God Above <br/>
-Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
-&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+Before the Throne of God Above
 </div>
 
 ******
@@ -70,9 +65,7 @@ the King of glory and of grace!
 
 <div class="caption">
 V1 C1 V2 C2 **V3** C3 <br/>
-Before the Throne of God Above <br/>
-Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
-&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+Before the Throne of God Above
 </div>
 
 ******
@@ -85,9 +78,7 @@ with Christ my Savior and my God.
 
 <div class="caption">
 V1 C1 V2 C2 V3 **C3** <br/>
-Before the Throne of God Above <br/>
-Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
-&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+Before the Throne of God Above
 </div>
 
 ---
@@ -100,8 +91,9 @@ Let them flow in ceaseless praise.
 
 <div class="caption">
 **V1** V2 V3 V4 V5 V6<br>
-597 Take My Life and Let It Be <br>
-Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+Take My Life and Let It Be (597)<br>
+Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan<br>
+CCLI licence 265772 (AFBC)
 </div>
 
 ******
@@ -114,8 +106,7 @@ Swift and beautiful for Thee.
 
 <div class="caption">
 V1 **V2** V3 V4 V5 V6<br>
-597 Take My Life and Let It Be <br>
-Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+Take My Life and Let It Be (597)
 </div>
 
 ******
@@ -128,8 +119,7 @@ Filled with messages from Thee.
 
 <div class="caption">
 V1 V2 **V3** V4 V5 V6<br>
-597 Take My Life and Let It Be <br>
-Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+Take My Life and Let It Be (597)
 </div>
 
 ******
@@ -142,8 +132,7 @@ Every pow’r as Thou shalt choose.
 
 <div class="caption">
 V1 V2 V3 **V4** V5 V6<br>
-597 Take My Life and Let It Be <br>
-Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+Take My Life and Let It Be (597)
 </div>
 
 ******
@@ -156,8 +145,7 @@ It shall be Thy royal throne.
 
 <div class="caption">
 V1 V2 V3 V4 **V5** V6<br>
-597 Take My Life and Let It Be <br>
-Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+Take My Life and Let It Be (597)
 </div>
 
 ******
@@ -170,8 +158,7 @@ Ever, only, all for Thee.
 
 <div class="caption">
 V1 V2 V3 V4 V5 **V6**<br>
-597 Take My Life and Let It Be <br>
-Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+Take My Life and Let It Be (597)
 </div>
 
 ---
