@@ -25,6 +25,7 @@ My name is graven on His hands, <br/>
 my name is written on His heart;
 
 I know that while in heav'n He stands <br/>
+no tongue can bid me thence depart;
 no tongue can bid me thence depart.
 
 <div class="ref">
@@ -49,6 +50,7 @@ Because the sinless Savior died, <br/>
 my sinful soul is counted free,
 
 for God the just is satisfied <br/>
+to look on Him and pardon me;
 to look on Him and pardon me.
 
 ---
@@ -63,6 +65,7 @@ One with Himself, I cannot die; <br/>
 my soul is purchased by His blood;
 
 my life is hid with Christ on high, <br/>
+with Christ my Savior and my God;
 with Christ my Savior and my God.
 
 ---
