@@ -5,70 +5,92 @@
 
 ---
 Before the throne of God above <br/>
-I have a strong, a perfect plea,
+I have a strong, a perfect plea:
 
-a great High Priest, whose name is Love <br/>
+A great High Priest, whose name is Love <br/>
 who ever lives and pleads for me.
 
-<div class="ref">
- **V1** C1 V2 C2 V3 C3
-</div>
-
 <div class="caption">
+**V1** C1 V2 C2 V3 C3 <br/>
 Before the Throne of God Above <br/>
 Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
 &copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
 </div>
 
----
+******
 My name is graven on His hands, <br/>
 my name is written on His heart;
 
 I know that while in heav'n He stands <br/>
-no tongue can bid me thence depart;
+no tongue can bid me thence depart; <br>
 no tongue can bid me thence depart.
 
-<div class="ref">
- V1 **C1** V2 C2 V3 C3
-</div>
-
 <div class="caption">
+V1 **C1** V2 C2 V3 C3 <br/>
 Before the Throne of God Above <br/>
 Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
 &copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
 </div>
 
----
+******
 When Satan tempts me to despair <br/>
 and tells me of the guilt within,
 
-upward I look, and see Him there <br/>
+Upward I look, and see Him there <br/>
 who made an end of all my sin.
 
----
+<div class="caption">
+V1 C1 **V2** C2 V3 C3 <br/>
+Before the Throne of God Above <br/>
+Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
+&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+</div>
+
+******
 Because the sinless Savior died, <br/>
 my sinful soul is counted free,
 
-for God the just is satisfied <br/>
-to look on Him and pardon me;
+For God the just is satisfied <br/>
+to look on Him and pardon me; <br>
 to look on Him and pardon me.
 
----
+<div class="caption">
+V1 C1 V2 **C2** V3 C3 <br/>
+Before the Throne of God Above <br/>
+Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
+&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+</div>
+
+******
 Behold Him there! the risen Lamb! <br/>
 my perfect, spotless righteousness,
 
-the great unchangeable I AM" <br/>
+The great, unchangeable I AM <br/>
 the King of glory and of grace!
 
----
+<div class="caption">
+V1 C1 V2 C2 **V3** C3 <br/>
+Before the Throne of God Above <br/>
+Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
+&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+</div>
+
+******
 One with Himself, I cannot die; <br/>
 my soul is purchased by His blood;
 
-my life is hid with Christ on high, <br/>
-with Christ my Savior and my God;
+My life is hid with Christ on high, <br/>
+with Christ my Savior and my God; <br>
 with Christ my Savior and my God.
 
----
+<div class="caption">
+V1 C1 V2 C2 V3 **C3** <br/>
+Before the Throne of God Above <br/>
+Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
+&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
+</div>
+
+******
 ## 597 Take My Life and Let It Be
 
 ---
