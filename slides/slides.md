@@ -474,9 +474,82 @@ who dwells on Mount Zion.
 # What is my family a **testimony** of?
 
 ---
-## #11 Come, Thou Fount
+## Come, Thou Fount [(#11)](# "ref")
 
 [Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
+
+******
+Come, Thou Fount of every blessing, <br>
+Tune my heart to sing Thy grace;
+
+Streams of mercy, never ceasing, <br>
+Call for songs of loudest praise.
+
+<div class="caption">
+**V1** C1 V2 C2 V3 C3<br>
+Come, Thou Fount of Every Blessing (11)<br>
+Words: Robert Robinson, 1758. Music: Asahel Nettleton
+</div>
+
+******
+Teach me some melodious sonnet, <br>
+Sung by flaming tongues above;
+
+Praise the mount! I’m fixed upon it, <br>
+Mount of Thy redeeming love.
+
+<div class="caption">
+V1 **C1** V2 C2 V3 C3<br>
+Come, Thou Fount of Every Blessing (11)
+</div>
+
+******
+Here I’ll raise my Ebenezer; <br>
+Hither by Thy help I’m come;
+
+And I hope, by Thy good pleasure, <br>
+Safely to arrive at home.
+
+<div class="caption">
+V1 C1 **V2** C2 V3 C3<br>
+Come, Thou Fount of Every Blessing (11)
+</div>
+
+******
+Jesus sought me when a stranger, <br>
+Wand’ring from the fold of God;
+
+He, to rescue me from danger, <br>
+Interposed His precious blood.
+
+<div class="caption">
+V1 C1 V2 **C2** V3 C3<br>
+Come, Thou Fount of Every Blessing (11)
+</div>
+
+******
+Oh, to grace how great a debtor <br>
+Daily I’m constrained to be!
+
+Let Thy goodness, like a fetter, <br>
+Bind my wand'ring heart to Thee.
+
+<div class="caption">
+V1 C1 V2 C2 **V3** C3<br>
+Come, Thou Fount of Every Blessing (11)
+</div>
+
+******
+Prone to wander, Lord, I feel it, <br>
+Prone to leave the God I love
+
+Here’s my heart, O take and seal it, <br>
+Seal it for Thy courts above
+
+<div class="caption">
+V1 C1 V2 C2 V3 **C3**<br>
+Come, Thou Fount of Every Blessing (11)
+</div>
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
