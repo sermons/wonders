@@ -248,6 +248,8 @@ who dwells on Mount Zion.
 ---
 ## #11 Come, Thou Fount
 
+[Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
