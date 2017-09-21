@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> data-state="title" -->
-# Worship Service
-## Aldergrove First Baptist
+# Welcome
+## Aldergrove Fellowship Baptist
 ### 24 Sep 2017
 
 ---
@@ -90,8 +90,89 @@ Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
 &copy; 1997 Sovereign Grace Worship / Integrity's Hosanna
 </div>
 
+---
+Take my life and let it be <br>
+Consecrated, Lord, to Thee.
+
+Take my moments and my days, <br>
+Let them flow in ceaseless praise; <br>
+Let them flow in ceaseless praise.
+
+<div class="caption">
+**V1** V2 V3 V4 V5 V6<br>
+597 Take My Life and Let It Be <br>
+Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+</div>
+
 ******
-## 597 Take My Life and Let It Be
+Take my hands and let them move <br>
+At the impulse of Thy love.
+
+Take my feet and let them be <br>
+Swift and beautiful for Thee; <br>
+Swift and beautiful for Thee.
+
+<div class="caption">
+V1 **V2** V3 V4 V5 V6<br>
+597 Take My Life and Let It Be <br>
+Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+</div>
+
+******
+Take my voice and let me sing, <br>
+Always, only for my King.
+
+Take my lips and let them be <br>
+Filled with messages from Thee; <br>
+Filled with messages from Thee.
+
+<div class="caption">
+V1 V2 **V3** V4 V5 V6<br>
+597 Take My Life and Let It Be <br>
+Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+</div>
+
+******
+Take my silver and my gold, <br>
+Not a mite would I withhold.
+
+Take my intellect and use <br>
+Every pow’r as Thou shalt choose; <br>
+Every pow’r as Thou shalt choose.
+
+<div class="caption">
+V1 V2 V3 **V4** V5 V6<br>
+597 Take My Life and Let It Be <br>
+Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+</div>
+
+******
+Take my will and make it Thine, <br>
+It shall be no longer mine.
+
+Take my heart, it is Thine own, <br>
+It shall be Thy royal throne; <br>
+It shall be Thy royal throne.
+
+<div class="caption">
+V1 V2 V3 V4 **V5** V6<br>
+597 Take My Life and Let It Be <br>
+Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+</div>
+
+******
+Take my love, my Lord, I pour <br>
+At Thy feet its treasure store.
+
+Take myself and I will be <br>
+Ever, only, all for Thee; <br>
+Ever, only, all for Thee.
+
+<div class="caption">
+V1 V2 V3 V4 V5 **V6**<br>
+597 Take My Life and Let It Be <br>
+Words: Frances Ridley Havergal. Music: Henri Abraham Cesar Malan
+</div>
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
