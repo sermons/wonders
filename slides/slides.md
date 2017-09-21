@@ -319,4 +319,54 @@ who dwells on Mount Zion.
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
 ---
+## Fanny Crosby
+
+******
+Rescue the perishing, care for the dying, <br/>
+Snatch them in pity from sin and the grave;
+
+Weep o’er the erring one, lift up the fallen, <br/>
+Tell them of Jesus, the mighty to save.
+
+******
+Rescue the perishing, care for the dying, <br/>
+Jesus is merciful, Jesus will save.
+
+******
+Though they are slighting Him, still He is waiting, <br/>
+Waiting the penitent child to receive;
+
+Plead with them earnestly, plead with them gently; <br/>
+He will forgive if they only believe.
+
+******
+Rescue the perishing, care for the dying, <br/>
+Jesus is merciful, Jesus will save.
+
+******
+Down in the human heart, crushed by the tempter, <br/>
+Feelings lie buried that grace can restore;
+
+Touched by a loving heart, wakened by kindness, <br/>
+Chords that were broken will vibrate once more.
+
+******
+Rescue the perishing, care for the dying, <br/>
+Jesus is merciful, Jesus will save.
+
+******
+Rescue the perishing, duty demands it; <br/>
+Strength for thy labor the Lord will provide;
+
+Back to the narrow way patiently win them; <br/>
+Tell the poor wand’rer a Savior has died
+
+******
+Rescue the perishing, care for the dying, <br/>
+Jesus is merciful, Jesus will save.
+
+Rescue the perishing, care for the dying, <br/>
+Jesus is merciful, Jesus will save.
+
+---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
