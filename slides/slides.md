@@ -637,7 +637,7 @@ who dwells on Mount Zion.
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
 ---
-## #441 Rescue the Perishing
+## Rescue the Perishing [(#441)](# "ref")
 Fanny Crosby
 
 Rescue the perishing, care for the dying, <br/>
@@ -650,9 +650,20 @@ Snatch them in pity from sin and the grave;
 Weep o’er the erring one, lift up the fallen, <br/>
 Tell them of Jesus, the mighty to save.
 
+<div class="caption">
+**V1** C V2 C V3 C V4 C<br>
+Rescue the Perishing (#441)<br>
+Words: Frances J. Crosby, 1869. Music: William H. Doane, 1870.
+</div>
+
 ******
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
+
+<div class="caption">
+V1 **C** V2 C V3 C V4 C<br>
+Rescue the Perishing (#441)
+</div>
 
 ******
 Though they are slighting Him, <br/>
@@ -663,9 +674,19 @@ Plead with them earnestly, <br/>
 plead with them gently; <br/>
 He will forgive if they only believe.
 
+<div class="caption">
+V1 C **V2** C V3 C V4 C<br>
+Rescue the Perishing (#441)
+</div>
+
 ******
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
+
+<div class="caption">
+V1 C V2 **C** V3 C V4 C<br>
+Rescue the Perishing (#441)
+</div>
 
 ******
 Down in the human heart, <br/>
@@ -676,9 +697,19 @@ Touched by a loving heart, <br/>
 wakened by kindness, <br/>
 Chords that were broken will vibrate once more.
 
+<div class="caption">
+V1 C V2 C **V3** C V4 C<br>
+Rescue the Perishing (#441)
+</div>
+
 ******
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
+
+<div class="caption">
+V1 C V2 C V3 **C** V4 C<br>
+Rescue the Perishing (#441)
+</div>
 
 ******
 Rescue the perishing, duty demands it; <br/>
@@ -687,12 +718,22 @@ Strength for thy labor the Lord will provide;
 Back to the narrow way patiently win them; <br/>
 Tell the poor wand’rer a Savior has died
 
+<div class="caption">
+V1 C V2 C V3 C **V4** C<br>
+Rescue the Perishing (#441)
+</div>
+
 ******
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
+
+<div class="caption">
+V1 C V2 C V3 C V4 **C**<br>
+Rescue the Perishing (#441)
+</div>
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
