@@ -333,10 +333,12 @@ Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
 ******
-Though they are slighting Him, still He is waiting, <br/>
+Though they are slighting Him, <br/>
+still He is waiting, <br/>
 Waiting the penitent child to receive;
 
-Plead with them earnestly, plead with them gently; <br/>
+Plead with them earnestly, <br/>
+plead with them gently; <br/>
 He will forgive if they only believe.
 
 ******
@@ -344,10 +346,12 @@ Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
 ******
-Down in the human heart, crushed by the tempter, <br/>
+Down in the human heart, <br/>
+crushed by the tempter, <br/>
 Feelings lie buried that grace can restore;
 
-Touched by a loving heart, wakened by kindness, <br/>
+Touched by a loving heart, <br/>
+wakened by kindness, <br/>
 Chords that were broken will vibrate once more.
 
 ******
