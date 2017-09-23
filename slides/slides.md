@@ -4,6 +4,12 @@
 ### 24 Sep 2017
 
 ---
+# Opening Prayer
+
+---
+# AFBC Family Life
+
+---
 Before the throne of God above <br/>
 I have a strong, a perfect plea:
 
@@ -80,6 +86,12 @@ with Christ my Savior and my God.
 V1 C1 V2 C2 V3 **C3** <br/>
 Before the Throne of God Above
 </div>
+
+---
+# Prayer
+
+---
+# Worship in Giving
 
 ---
 Take my life and let it be <br>
@@ -161,23 +173,8 @@ Take My Life and Let It Be (597)
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-# For Signs and Wonders
-## Isaiah 8:16-22
+## Scripture: [Isaiah 8:16-22](# "ref")
 
----
-<!-- .slide: data-background="white" -->
-# Why does God give us **family**?
-
-[###](#/outline "secret")
-
->>>
-+ **natural** family, **church** family
-  + local community
-+ Isaiah: a prophet + his family amidst unstable times
-+ purpose of family: witness of God's power 
-
----
 [16](# "ref")
 Bind up the **testimony**; <br/>
 seal the **teaching** among my disciples.
@@ -244,6 +241,23 @@ the gloom of anguish. <br/>
 And they will be thrust into thick **darkness**.
 
 <%= bible('is8.21-22', 'Isaiah 8:21-22 (ESV) (p.5/5)', 'ESV') %>
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+# For Signs and Wonders
+## Isaiah 8:16-22
+
+---
+<!-- .slide: data-background="white" -->
+# Why does God give us **family**?
+
+[###](#/outline "secret")
+
+>>>
++ **natural** family, **church** family
+  + local community
++ Isaiah: a prophet + his family amidst unstable times
++ purpose of family: witness of God's power 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
