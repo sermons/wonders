@@ -246,8 +246,8 @@ V1 C V2 C V3 **C**<br>
 </div>
 
 ---
-# Scripture Reading:
-## [Isaiah 8:16-22](# "ref")
+## Scripture Reading:
+# [Isaiah 8:16-22](# "ref")
 
 ******
 [16](# "ref")
@@ -429,7 +429,8 @@ It Is Well with My Soul (#705)
 </div>
 
 ******
-Though Satan should buffet, though trials should come, <br/>
+Though Satan should buffet, <br>
+though trials should come, <br/>
 Let this blest assurance control,
 
 That Christ hath regarded my helpless estate, <br/>
@@ -471,10 +472,12 @@ It Is Well with My Soul (#705)
 </div>
 
 ******
-And Lord, haste the day when the faith shall be sight, <br/>
+And Lord, haste the day <br>
+when the faith shall be sight, <br/>
 The clouds be rolled back as a scroll;
 
-The trump shall resound, and the Lord shall descend, <br/>
+The trump shall resound, <br>
+and the Lord shall descend, <br/>
 Even so, it is well with my soul.
 
 <div class="caption">
@@ -836,6 +839,12 @@ Jesus is merciful, Jesus will save.
 V1 C V2 C V3 C V4 **C**<br>
 Rescue the Perishing (#441)
 </div>
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %>  -->
+# Welcome
+## Aldergrove Fellowship Baptist
+### 24 Sep 2017
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
