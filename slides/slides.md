@@ -611,7 +611,8 @@ And they will be thrust into thick **darkness**.
 Therefore the **Lord** himself <br/>
 will give you a **sign**.
 
-Behold, the **virgin** shall conceive and bear a son, <br/>
+Behold, the **virgin** shall conceive <br>
+and bear a son, <br/>
 and shall call his name **Immanuel**.
 
 <%= bible('is7.14', 'Isaiah 7:14 (ESV)', 'ESV') %>
@@ -622,7 +623,7 @@ and shall call his name **Immanuel**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does my family point to God's **light** in this **dark** world?
+# Does my family point to <br> God's **light** in <br> this **dark** world?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
