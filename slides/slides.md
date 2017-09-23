@@ -88,12 +88,6 @@ Before the Throne of God Above
 </div>
 
 ---
-# Prayer
-
----
-# Worship in Giving
-
----
 Take my life and let it be <br>
 Consecrated, Lord, to Thee.
 
@@ -170,6 +164,85 @@ Ever, only, all for Thee.
 <div class="caption">
 V1 V2 V3 V4 V5 **V6**<br>
 Take My Life and Let It Be (597)
+</div>
+
+---
+# Prayer
+
+---
+# Worship in Giving
+
+---
+’Tis so sweet to trust in Jesus, <br>
+Just to take Him at His Word;
+
+Just to rest upon His promise, <br>
+And to know, “Thus saith the Lord!”
+
+<div class="caption">
+**V1** C V2 C V3 C<br>
+'Tis So Sweet to Trust in Jesus (581)<br>
+Words: Louisa M. R. Stead, 1882.  Music: William J. Kirkpatrick.
+</div>
+
+******
+Jesus, Jesus, how I trust Him! <br>
+How I’ve proved Him o’er and o’er;
+
+Jesus, Jesus, precious Jesus! <br>
+Oh, for grace to trust Him more!
+
+<div class="caption">
+V1 **C** V2 C V3 C<br>
+'Tis So Sweet to Trust in Jesus (581)
+</div>
+
+******
+Oh, how sweet to trust in Jesus, <br>
+Just to trust His cleansing blood;
+
+And in simple faith to plunge me <br>
+’Neath the healing, cleansing flood!
+
+<div class="caption">
+V1 C **V2** C V3 C<br>
+'Tis So Sweet to Trust in Jesus (581)
+</div>
+
+******
+Jesus, Jesus, how I trust Him! <br>
+How I’ve proved Him o’er and o’er;
+
+Jesus, Jesus, precious Jesus! <br>
+Oh, for grace to trust Him more!
+
+<div class="caption">
+V1 C V2 **C** V3 C<br>
+'Tis So Sweet to Trust in Jesus (581)
+</div>
+
+******
+I’m so glad I learned to trust Thee, <br>
+Precious Jesus, Savior, Friend;
+
+And I know that Thou art with me, <br>
+Wilt be with me to the end.
+
+<div class="caption">
+V1 C V2 C **V3** C<br>
+'Tis So Sweet to Trust in Jesus (581)
+</div>
+
+******
+Jesus, Jesus, how I trust Him! <br>
+How I’ve proved Him o’er and o’er;
+
+Jesus, Jesus, precious Jesus! <br>
+Oh, for grace to trust Him more!
+
+<div class="caption">
+V1 C V2 C V3 **C**<br>
+'Tis So Sweet to Trust in Jesus (581)
 </div>
 
 ---
@@ -328,81 +401,7 @@ therefore also through Him is our  <br/>
 # Is our family **waiting** for God to save His **remnant**?
 
 ---
-## ’Tis so sweet [(#581)](# "ref")
-Louisa M. R. Stead
-
-******
-’Tis so sweet to trust in Jesus, <br>
-Just to take Him at His Word;
-
-Just to rest upon His promise, <br>
-And to know, “Thus saith the Lord!”
-
-<div class="caption">
-**V1** C V2 C V3 C<br>
-'Tis So Sweet to Trust in Jesus (581)<br>
-Words: Louisa M. R. Stead, 1882.  Music: William J. Kirkpatrick.
-</div>
-
-******
-Jesus, Jesus, how I trust Him! <br>
-How I’ve proved Him o’er and o’er;
-
-Jesus, Jesus, precious Jesus! <br>
-Oh, for grace to trust Him more!
-
-<div class="caption">
-V1 **C** V2 C V3 C<br>
-'Tis So Sweet to Trust in Jesus (581)
-</div>
-
-******
-Oh, how sweet to trust in Jesus, <br>
-Just to trust His cleansing blood;
-
-And in simple faith to plunge me <br>
-’Neath the healing, cleansing flood!
-
-<div class="caption">
-V1 C **V2** C V3 C<br>
-'Tis So Sweet to Trust in Jesus (581)
-</div>
-
-******
-Jesus, Jesus, how I trust Him! <br>
-How I’ve proved Him o’er and o’er;
-
-Jesus, Jesus, precious Jesus! <br>
-Oh, for grace to trust Him more!
-
-<div class="caption">
-V1 C V2 **C** V3 C<br>
-'Tis So Sweet to Trust in Jesus (581)
-</div>
-
-******
-I’m so glad I learned to trust Thee, <br>
-Precious Jesus, Savior, Friend;
-
-And I know that Thou art with me, <br>
-Wilt be with me to the end.
-
-<div class="caption">
-V1 C V2 C **V3** C<br>
-'Tis So Sweet to Trust in Jesus (581)
-</div>
-
-******
-Jesus, Jesus, how I trust Him! <br>
-How I’ve proved Him o’er and o’er;
-
-Jesus, Jesus, precious Jesus! <br>
-Oh, for grace to trust Him more!
-
-<div class="caption">
-V1 C V2 C V3 **C**<br>
-'Tis So Sweet to Trust in Jesus (581)
-</div>
+## It Is Well with My Soul
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
