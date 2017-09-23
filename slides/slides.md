@@ -246,8 +246,10 @@ V1 C V2 C V3 **C**<br>
 </div>
 
 ---
-## Scripture: [Isaiah 8:16-22](# "ref")
+# Scripture Reading:
+## [Isaiah 8:16-22](# "ref")
 
+******
 [16](# "ref")
 Bind up the **testimony**; <br/>
 seal the **teaching** among my disciples.
@@ -261,7 +263,7 @@ and I will **hope** in him.
 
 <%= bible('is8.16-17', 'Isaiah 8:16-17 (ESV) (p.1/5)', 'ESV') %>
 
----
+******
 [18](# "ref")
 Behold, I and the **children** <br/>
 whom the Lord has given me
@@ -273,7 +275,7 @@ who dwells on Mount Zion.
 
 <%= bible('is8.18', 'Isaiah 8:18 (ESV) (p.2/5)', 'ESV') %>
 
----
+******
 [19](# "ref")
 And when they say to you, <br/>
 “Inquire of the **mediums** and the <br/>
@@ -285,7 +287,7 @@ on behalf of the **living**?
 
 <%= bible('is8.19', 'Isaiah 8:19 (ESV) (p.3/5)', 'ESV') %>
 
----
+******
 [20](# "ref")
 To the **teaching** and to the **testimony**!
 
@@ -299,7 +301,7 @@ greatly **distressed** and hungry.
 
 <%= bible('is8.20-21', 'Isaiah 8:20-21 (ESV) (p.4/5)', 'ESV') %>
 
----
+******
 And when they are hungry, <br/>
 they will be **enraged**
 
