@@ -833,6 +833,7 @@ Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
 Rescue the perishing, care for the dying, <br/>
+Jesus is merciful, Jesus will save; <br/>
 Jesus is merciful, Jesus will save.
 
 <div class="caption">
@@ -842,9 +843,7 @@ Rescue the Perishing (#441)
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %>  -->
-# Welcome
-## Aldergrove Fellowship Baptist
-### 24 Sep 2017
+# Closing Prayer
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
