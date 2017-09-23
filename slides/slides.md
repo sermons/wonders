@@ -401,7 +401,7 @@ therefore also through Him is our  <br/>
 # Is our family **waiting** for God to save His **remnant**?
 
 ---
-## It Is Well with My Soul
+## It Is Well with My Soul [(#705)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
