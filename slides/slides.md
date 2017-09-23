@@ -402,6 +402,92 @@ therefore also through Him is our  <br/>
 
 ---
 ## It Is Well with My Soul [(#705)](# "ref")
+Horatio Spafford
+
+******
+When peace, like a river, attendeth my way, <br/>
+When sorrows like sea billows roll;
+
+Whatever my lot, Thou hast taught me to say, <br/>
+It is well, it is well with my soul.
+
+<div class="caption">
+**V1** C V2 C V3 C V4 C<br>
+It Is Well with My Soul (#705)<br>
+Words: Horatio G. Spafford, 1873. Music: Philip P. Bliss
+</div>
+
+******
+It is well with my soul, <br/>
+It is well, it is well with my soul.
+
+<div class="caption">
+V1 **C** V2 C V3 C V4 C<br>
+It Is Well with My Soul (#705)
+</div>
+
+******
+Though Satan should buffet, though trials should come, <br/>
+Let this blest assurance control,
+
+That Christ hath regarded my helpless estate, <br/>
+And hath shed His own blood for my soul.
+
+<div class="caption">
+V1 C **V2** C V3 C V4 C<br>
+It Is Well with My Soul (#705)
+</div>
+
+******
+It is well with my soul, <br/>
+It is well, it is well with my soul.
+
+<div class="caption">
+V1 C V2 **C** V3 C V4 C<br>
+It Is Well with My Soul (#705)
+</div>
+
+******
+My sin -- oh, the bliss of this glorious thought! -- <br/>
+My sin, not in part but the whole,
+
+Is nailed to the cross, and I bear it no more, <br/>
+Praise the Lord, praise the Lord, O my soul!
+
+<div class="caption">
+V1 C V2 C **V3** C V4 C<br>
+It Is Well with My Soul (#705)
+</div>
+
+******
+It is well with my soul, <br/>
+It is well, it is well with my soul.
+
+<div class="caption">
+V1 C V2 C V3 **C** V4 C<br>
+It Is Well with My Soul (#705)
+</div>
+
+******
+And Lord, haste the day when the faith shall be sight, <br/>
+The clouds be rolled back as a scroll;
+
+The trump shall resound, and the Lord shall descend, <br/>
+Even so, it is well with my soul.
+
+<div class="caption">
+V1 C V2 C V3 C **V4** C<br>
+It Is Well with My Soul (#705)
+</div>
+
+******
+It is well with my soul, <br/>
+It is well, it is well with my soul.
+
+<div class="caption">
+V1 C V2 C V3 C V4 **C**<br>
+It Is Well with My Soul (#705)
+</div>
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
