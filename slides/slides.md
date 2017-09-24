@@ -373,7 +373,8 @@ and turn their faces upward.
 [22](# "ref")
 And they will look to the **earth**, <br/>
 but behold, **distress** and darkness, <br/>
-the gloom of anguish. <br/>
+the gloom of anguish.
+
 And they will be thrust into thick **darkness**.
 
 <%= bible('is8.22', 'Isaiah 8:22 (ESV) (p.6/6)', 'ESV') %>
