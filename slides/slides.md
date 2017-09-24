@@ -1,12 +1,14 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
 # Welcome
 ## Aldergrove Fellowship Baptist
 ### 24 Sep 2017
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
 # Opening Prayer
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
 # AFBC Family Life
 
 ---
@@ -167,9 +169,11 @@ Take My Life and Let It Be (597)
 </div>
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
 # Prayer
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
 # Worship in Giving
 
 ---
@@ -246,6 +250,7 @@ V1 C V2 C V3 **C**<br>
 </div>
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
 ## Scripture Reading:
 # [Isaiah 8:16-22](# "ref")
 
@@ -318,7 +323,7 @@ And they will be thrust into thick **darkness**.
 <%= bible('is8.21-22', 'Isaiah 8:21-22 (ESV) (p.5/5)', 'ESV') %>
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 # For Signs and Wonders
 ## Isaiah 8:16-22
 
@@ -335,7 +340,7 @@ And they will be thrust into thick **darkness**.
 + purpose of family: witness of God's power 
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="outline" -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant **Waiting** Upon the Lord [(v16-17)](# "ref")
   + *"She-ar Yashub"*
@@ -495,7 +500,7 @@ It Is Well with My Soul (#705)
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
   + "She-ar Yashub"
@@ -656,7 +661,7 @@ Come, Thou Fount of Every Blessing (11)
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
   + "She-ar Yashub"
@@ -730,7 +735,7 @@ and shall call his name **Immanuel**.
 # Does my family point to <br> God's **light** in <br> this **dark** world?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
 
@@ -842,8 +847,8 @@ Rescue the Perishing (#441)
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %>  -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 # Closing Prayer
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> class="empty" -->
