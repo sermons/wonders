@@ -205,7 +205,7 @@ Take My Life and Let It Be (#597)
 
 ---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> id="song3" -->
-## 'Tis So Sweet to Trust in Jesus (#581)
+## 'Tis So Sweet to Trust <br> in Jesus (#581)
 
 <div class="caption">
 Words: Louisa M. R. Stead, 1882<br>
@@ -463,7 +463,7 @@ therefore also through Him is our  <br/>
 ![Horatio Spafford](static/img/Horatio_Spafford.jpg)
 </div><div>
 ![telegram from Anna Spafford](static/img/Spafford_telegram.jpg)
-Horatio Spafford
+Horatio Spafford<br>
 [(Leben)](http://leben.us/shipwreck-american-colony/ "ref")
 [(LoC)](https://www.loc.gov/exhibits/americancolony/amcolony-family.html "ref")
 </div></div>
@@ -677,7 +677,7 @@ who dwells on Mount Zion.
 [Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
 <br>
 
-"Prone to wander, Lord, I feel it"
+"Prone to wander, <br> Lord, I feel it"
 </div></div>
 
 >>>
