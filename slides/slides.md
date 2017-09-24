@@ -21,7 +21,7 @@ Words: Charitie Lees Bancroft, 1863. Music: Vikki Cook <br/>
 CCLI licence 265772 (AFBC)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 Before the throne of God above <br/>
 I have a strong, a perfect plea:
@@ -34,7 +34,7 @@ who ever lives and pleads for me.
 Before the Throne of God Above
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 My name is graven on His hands, <br/>
 my name is written on His heart;
@@ -48,7 +48,7 @@ V1 **C1** V2 C2 V3 C3 <br/>
 Before the Throne of God Above
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 When Satan tempts me to despair <br/>
 and tells me of the guilt within,
@@ -61,7 +61,7 @@ V1 C1 **V2** C2 V3 C3 <br/>
 Before the Throne of God Above
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 Because the sinless Savior died, <br/>
 my sinful soul is counted free,
@@ -75,7 +75,7 @@ V1 C1 V2 **C2** V3 C3 <br/>
 Before the Throne of God Above
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 Behold Him there! the risen Lamb! <br/>
 my perfect, spotless righteousness,
@@ -88,7 +88,7 @@ V1 C1 V2 C2 **V3** C3 <br/>
 Before the Throne of God Above
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 One with Himself, I cannot die; <br/>
 my soul is purchased by His blood;
@@ -111,7 +111,7 @@ Words: Frances Ridley Havergal, 1874<br>
 Music: Henri Abraham Cesar Malan
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my life and let it be <br>
 Consecrated, Lord, to Thee.
@@ -125,7 +125,7 @@ Let them flow in ceaseless praise.
 Take My Life and Let It Be (#597)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my hands and let them move <br>
 At the impulse of Thy love.
@@ -139,7 +139,7 @@ V1 **V2** V3 V4 V5 V6<br>
 Take My Life and Let It Be (#597)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my voice and let me sing, <br>
 Always, only for my King.
@@ -153,7 +153,7 @@ V1 V2 **V3** V4 V5 V6<br>
 Take My Life and Let It Be (#597)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my silver and my gold, <br>
 Not a mite would I withhold.
@@ -167,7 +167,7 @@ V1 V2 V3 **V4** V5 V6<br>
 Take My Life and Let It Be (#597)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my will and make it Thine, <br>
 It shall be no longer mine.
@@ -181,7 +181,7 @@ V1 V2 V3 V4 **V5** V6<br>
 Take My Life and Let It Be (#597)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my love, my Lord, I pour <br>
 At Thy feet its treasure store.
@@ -212,7 +212,7 @@ Words: Louisa M. R. Stead, 1882<br>
 Music: William J. Kirkpatrick
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 ’Tis so sweet to trust in Jesus, <br>
 Just to take Him at His Word;
@@ -225,7 +225,7 @@ And to know, “Thus saith the Lord!”
 'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
@@ -238,7 +238,7 @@ V1 **C** V2 C V3 C<br>
 'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 Oh, how sweet to trust in Jesus, <br>
 Just to trust His cleansing blood;
@@ -251,7 +251,7 @@ V1 C **V2** C V3 C<br>
 'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
@@ -264,7 +264,7 @@ V1 C V2 **C** V3 C<br>
 'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 I’m so glad I learned to trust Thee, <br>
 Precious Jesus, Savior, Friend;
@@ -277,7 +277,7 @@ V1 C V2 C **V3** C<br>
 'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
@@ -295,7 +295,7 @@ V1 C V2 C V3 **C**<br>
 # For Signs and Wonders
 ## Isaiah 8:16-22
 
-******
+---
 <!-- .slide: data-background="white" -->
 # Why does God give us **family**?
 
@@ -319,7 +319,7 @@ and I will **hope** in him.
 
 <%= bible('is8.16-17', 'Isaiah 8:16-17 (ESV) (p.1/6)', 'ESV') %>
 
-******
+---
 [18](# "ref")
 Behold, I and the **children** <br/>
 whom the Lord has given me
@@ -331,7 +331,7 @@ who dwells on Mount Zion.
 
 <%= bible('is8.18', 'Isaiah 8:18 (ESV) (p.2/6)', 'ESV') %>
 
-******
+---
 [19](# "ref")
 And when they say to you, <br/>
 “Inquire of the **mediums** and the <br/>
@@ -343,7 +343,7 @@ on behalf of the **living**?
 
 <%= bible('is8.19', 'Isaiah 8:19 (ESV) (p.3/6)', 'ESV') %>
 
-******
+---
 [20](# "ref")
 To the **teaching** and to the **testimony**!
 
@@ -353,7 +353,7 @@ it is because they have no **dawn**.
 
 <%= bible('is8.20', 'Isaiah 8:20 (ESV) (p.4/6)', 'ESV') %>
 
-******
+---
 [21](# "ref")
 They will pass through the land, <br/>
 greatly **distressed** and hungry.
@@ -367,7 +367,7 @@ and turn their faces upward.
 
 <%= bible('is8.21', 'Isaiah 8:21 (ESV) (p.5/6)', 'ESV') %>
 
-******
+---
 [22](# "ref")
 And they will look to the **earth**, <br/>
 but behold, **distress** and darkness, <br/>
@@ -392,7 +392,7 @@ And they will be thrust into thick **darkness**.
   + but &ge;16yrs (Jotham) until word
   + peace dissolves w/Ahaz
 
-******
+---
 <!-- .slide: <%= bg("flickr-telemax-8605734851-esther_scroll.jpg") %> -->
 **Bind** up the **testimony**; <br/>
 **seal** the **teaching** among my disciples.
@@ -406,7 +406,7 @@ And they will be thrust into thick **darkness**.
 >>>
 + **bind/seal**: to remember/save 
 
-******
+---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 I will **wait** for the Lord,
 
@@ -420,7 +420,7 @@ and I will **hope** in him.
 >>>
 + **wait/eager**: for God's judgment 
 
-******
+---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 Go out to meet Ahaz, <br/>
 you and **Shear-Jashub** your son
@@ -435,7 +435,7 @@ you and **Shear-Jashub** your son
   + *She-ar-yashub*: remnant will return
   + **remnant**: (6:13) stump/seed 
 
-******
+---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 For as many as are the **promises** of God, <br/>
 in Him they are **yes**;
@@ -449,7 +449,7 @@ therefore also through Him is our  <br/>
 + not yes/no in coming to Corinth
 + **promises** of God
 
-******
+---
 <!-- .slide: data-background="white" -->
 # Is our family **waiting** for God to save His **remnant**?
 
@@ -477,7 +477,7 @@ Horatio Spafford<br>
 + Moody: "you must be so busy helping those who have gone into the depths of despair that you will overcome your own affliction by bringing comfort and salvation to others."
 + (utopian commune in Jerusalem: American Colony)
 
-******
+---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 When peace, like a river, attendeth my way, <br/>
 When sorrows like sea billows roll;
@@ -491,7 +491,7 @@ It Is Well with My Soul (#705)<br>
 Words: Horatio G. Spafford, 1873. Music: Philip P. Bliss
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 It is well with my soul, <br/>
 It is well, it is well with my soul.
@@ -501,7 +501,7 @@ V1 **C** V2 C V3 C V4 C<br>
 It Is Well with My Soul (#705)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 Though Satan should buffet, <br>
 though trials should come, <br/>
@@ -515,7 +515,7 @@ V1 C **V2** C V3 C V4 C<br>
 It Is Well with My Soul (#705)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 It is well with my soul, <br/>
 It is well, it is well with my soul.
@@ -525,7 +525,7 @@ V1 C V2 **C** V3 C V4 C<br>
 It Is Well with My Soul (#705)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 My sin -- oh, the bliss of this glorious thought! -- <br/>
 My sin, not in part but the whole,
@@ -538,7 +538,7 @@ V1 C V2 C **V3** C V4 C<br>
 It Is Well with My Soul (#705)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 It is well with my soul, <br/>
 It is well, it is well with my soul.
@@ -548,7 +548,7 @@ V1 C V2 C V3 **C** V4 C<br>
 It Is Well with My Soul (#705)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 And Lord, haste the day <br>
 when the faith shall be sight, <br/>
@@ -563,7 +563,7 @@ V1 C V2 C V3 C **V4** C<br>
 It Is Well with My Soul (#705)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 It is well with my soul, <br/>
 It is well, it is well with my soul.
@@ -583,7 +583,7 @@ It Is Well with My Soul (#705)
 1. The Word Dwelling Among Us [(v19-22)](# "ref")
   + "Immanuel"
 
-******
+---
 <!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
@@ -599,7 +599,7 @@ who dwells on Mount Zion.
 + **sign**: points to God 
   + **wonder**: miracle, amazement: God's power, not our success
 
-******
+---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 Call his name **Maher-shalal-hash-baz**; <br/>
 [4](# "ref")
@@ -619,7 +619,7 @@ will be **carried away** before the king of Assyria.
   + (2Ch 28:22-23) Ahaz worship Aram gods (Is 8:6) 
   + Assyria conquers Aram (2Ki 16), Israel (17), then fights Judah (18)
 
-******
+---
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 Jesus came to Bethany, where **Lazarus** was, <br/>
 whom Jesus had **raised** from the dead.
@@ -635,7 +635,7 @@ with him at table.
 (img: Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 When the large **crowd** of the Jews <br/>
 learned that **Jesus** was there, they **came**,
@@ -649,7 +649,7 @@ whom he had **raised** from the dead.
 >>>
 + 10-11 planned to kill Lazarus, too
 
-******
+---
 <!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
@@ -661,7 +661,7 @@ who dwells on Mount Zion.
 
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
-******
+---
 <!-- .slide: data-background="white" -->
 # What is my family a **testimony** of?
 
@@ -689,7 +689,7 @@ who dwells on Mount Zion.
 + unverified story: lady singing in coach
   + "I am the poor unhappy man who wrote that hymn many years ago, and I would give a thousand worlds, if I had them, to enjoy the feelings I had then."
 
-******
+---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Come, Thou Fount of every blessing, <br>
 Tune my heart to sing Thy grace;
@@ -703,7 +703,7 @@ Come, Thou Fount of Every Blessing (11)<br>
 Words: Robert Robinson, 1758. Music: Asahel Nettleton
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Teach me some melodious sonnet, <br>
 Sung by flaming tongues above;
@@ -716,7 +716,7 @@ V1 **C1** V2 C2 V3 C3<br>
 Come, Thou Fount of Every Blessing (11)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Here I’ll raise my Ebenezer; <br>
 Hither by Thy help I’m come;
@@ -729,7 +729,7 @@ V1 C1 **V2** C2 V3 C3<br>
 Come, Thou Fount of Every Blessing (11)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Jesus sought me when a stranger, <br>
 Wand’ring from the fold of God;
@@ -742,7 +742,7 @@ V1 C1 V2 **C2** V3 C3<br>
 Come, Thou Fount of Every Blessing (11)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Oh, to grace how great a debtor <br>
 Daily I’m constrained to be!
@@ -755,7 +755,7 @@ V1 C1 V2 C2 **V3** C3<br>
 Come, Thou Fount of Every Blessing (11)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Prone to wander, Lord, I feel it, <br>
 Prone to leave the God I love
@@ -781,7 +781,7 @@ Come, Thou Fount of Every Blessing (11)
 >>>
 + where to find help? Source of **security**? 
 
-******
+---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 And when they say to you, <br/>
 “Inquire of the **mediums** [...]"
@@ -793,7 +793,7 @@ should not a people inquire of their **God**? <br/>
 >>>
 + what we **turn** to in times of **distress**
 
-******
+---
 <!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 To the **teaching** and to the **testimony**!
 
@@ -806,7 +806,7 @@ it is because they have no **dawn**.
   + **testimy**: witness, God's **work** in us
 + **light of dawn**: (Ps 119:105) Word is lamp 
 
-******
+---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 And when they are hungry, <br/>
 they will be **enraged**
@@ -820,7 +820,7 @@ and turn their faces **upward**.
 >>>
 + up: curse king/country/God 
 
-******
+---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 And they will look to the **earth**, <br/>
 but behold, **distress** and darkness, <br/>
@@ -833,7 +833,7 @@ And they will be thrust into thick **darkness**.
 >>>
 + down: darkness, distress, frustration 
 
-******
+---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
 Therefore the **Lord** himself <br/>
 will give you a **sign**.
@@ -852,11 +852,11 @@ and shall call his name **Immanuel**.
 + God with us
 + ch9: light dawns in the darkness
 
-******
+---
 <!-- .slide: data-background="white" -->
 # Does my family point to <br> God's **light** in <br> this **dark** world?
 
-******
+---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
@@ -893,7 +893,7 @@ Music: W. Howard Doane
 + finished song lyrics that night
 + 1903 YMCA in MA: "I was the boy" "If we never meet again on earth, we will meet up yonder"
 
-******
+---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Snatch them in pity from sin and the grave;
@@ -907,7 +907,7 @@ Rescue the Perishing (#441)<br>
 Words: Frances J. Crosby, 1869. Music: William H. Doane, 1870.
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
@@ -917,7 +917,7 @@ V1 **C** V2 C V3 C V4 C<br>
 Rescue the Perishing (#441)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Though they are slighting Him, <br/>
 still He is waiting, <br/>
@@ -932,7 +932,7 @@ V1 C **V2** C V3 C V4 C<br>
 Rescue the Perishing (#441)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
@@ -942,7 +942,7 @@ V1 C V2 **C** V3 C V4 C<br>
 Rescue the Perishing (#441)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Down in the human heart, <br/>
 crushed by the tempter, <br/>
@@ -957,7 +957,7 @@ V1 C V2 C **V3** C V4 C<br>
 Rescue the Perishing (#441)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
@@ -967,7 +967,7 @@ V1 C V2 C V3 **C** V4 C<br>
 Rescue the Perishing (#441)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, duty demands it; <br/>
 Strength for thy labor the Lord will provide;
@@ -980,7 +980,7 @@ V1 C V2 C V3 C **V4** C<br>
 Rescue the Perishing (#441)
 </div>
 
-******
+---
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
