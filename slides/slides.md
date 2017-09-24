@@ -311,7 +311,7 @@ from the house of Jacob,
 
 and I will **hope** in him.
 
-<%= bible('is8.16-17', 'Isaiah 8:16-17 (ESV) (p.1/5)', 'ESV') %>
+<%= bible('is8.16-17', 'Isaiah 8:16-17 (ESV) (p.1/6)', 'ESV') %>
 
 ******
 [18](# "ref")
@@ -323,7 +323,7 @@ are **signs** and portents in Israel
 from the **Lord** of hosts, <br/>
 who dwells on Mount Zion.
 
-<%= bible('is8.18', 'Isaiah 8:18 (ESV) (p.2/5)', 'ESV') %>
+<%= bible('is8.18', 'Isaiah 8:18 (ESV) (p.2/6)', 'ESV') %>
 
 ******
 [19](# "ref")
@@ -335,7 +335,7 @@ should not a people inquire of their **God**? <br/>
 Should they inquire of the **dead** <br/>
 on behalf of the **living**?
 
-<%= bible('is8.19', 'Isaiah 8:19 (ESV) (p.3/5)', 'ESV') %>
+<%= bible('is8.19', 'Isaiah 8:19 (ESV) (p.3/6)', 'ESV') %>
 
 ******
 [20](# "ref")
@@ -345,13 +345,13 @@ If they will not speak <br/>
 according to this **word**, <br/>
 it is because they have no **dawn**.
 
+<%= bible('is8.20', 'Isaiah 8:20 (ESV) (p.4/6)', 'ESV') %>
+
+******
 [21](# "ref")
 They will pass through the land, <br/>
 greatly **distressed** and hungry.
 
-<%= bible('is8.20-21', 'Isaiah 8:20-21 (ESV) (p.4/5)', 'ESV') %>
-
-******
 And when they are hungry, <br/>
 they will be **enraged**
 
@@ -359,13 +359,16 @@ and will speak **contemptuously** <br/>
 against their **king** and their **God**, <br/>
 and turn their faces upward.
 
+<%= bible('is8.21', 'Isaiah 8:21 (ESV) (p.5/6)', 'ESV') %>
+
+******
 [22](# "ref")
 And they will look to the **earth**, <br/>
 but behold, **distress** and darkness, <br/>
 the gloom of anguish. <br/>
 And they will be thrust into thick **darkness**.
 
-<%= bible('is8.21-22', 'Isaiah 8:21-22 (ESV) (p.5/5)', 'ESV') %>
+<%= bible('is8.22', 'Isaiah 8:22 (ESV) (p.6/6)', 'ESV') %>
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="outline" -->
@@ -735,6 +738,7 @@ Come, Thou Fount of Every Blessing (11)
 + where to find help? Source of **security**? 
 
 ---
+<!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 And when they say to you, <br/>
 “Inquire of the **mediums** [...]"
 
@@ -746,6 +750,7 @@ should not a people inquire of their **God**? <br/>
 + what we **turn** to in times of **distress**
 
 ---
+<!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 To the **teaching** and to the **testimony**!
 
 If they will not speak <br/>
@@ -758,26 +763,34 @@ it is because they have no **dawn**.
 + **light of dawn**: (Ps 119:105) Word is lamp 
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 And when they are hungry, <br/>
 they will be **enraged**
 
 and will speak **contemptuously** <br/>
 against their **king** and their **God**, <br/>
-and turn their faces upward.
+and turn their faces **upward**.
 
-[22](# "ref")
-And they will look to the **earth**, <br/>
-but behold, **distress** and darkness, <br/>
-the gloom of anguish. <br/>
-And they will be thrust into thick **darkness**.
-
-<%= bible('is8.21-22', 'Isaiah 8:21-22 (ESV)', 'ESV') %>
+<%= bible('is8.21', 'Isaiah 8:21 (ESV)', 'ESV') %>
 
 >>>
 + up: curse king/country/God 
-  + down: darkness, distress, frustration 
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
+And they will look to the **earth**, <br/>
+but behold, **distress** and darkness, <br/>
+the gloom of anguish.
+
+And they will be thrust into thick **darkness**.
+
+<%= bible('is8.22', 'Isaiah 8:22 (ESV)', 'ESV') %>
+
+>>>
++ down: darkness, distress, frustration 
+
+---
+<!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
 Therefore the **Lord** himself <br/>
 will give you a **sign**.
 
@@ -786,6 +799,10 @@ and bear a son, <br/>
 and shall call his name **Immanuel**.
 
 <%= bible('is7.14', 'Isaiah 7:14 (ESV)', 'ESV') %>
+
+<div class="caption">
+(img: Rembrandt, "Simeon's Song of Praise", 1631)
+</div>
 
 >>>
 + God with us
@@ -808,6 +825,7 @@ who dwells on Mount Zion.
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
 ---
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> id="song6" -->
 ## Rescue the Perishing [(#441)](# "ref")
 Fanny Crosby
 
@@ -815,6 +833,7 @@ Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
 ******
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Snatch them in pity from sin and the grave;
 
@@ -828,6 +847,7 @@ Words: Frances J. Crosby, 1869. Music: William H. Doane, 1870.
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
@@ -837,6 +857,7 @@ Rescue the Perishing (#441)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Though they are slighting Him, <br/>
 still He is waiting, <br/>
 Waiting the penitent child to receive;
@@ -851,6 +872,7 @@ Rescue the Perishing (#441)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
@@ -860,6 +882,7 @@ Rescue the Perishing (#441)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Down in the human heart, <br/>
 crushed by the tempter, <br/>
 Feelings lie buried that grace can restore;
@@ -874,6 +897,7 @@ Rescue the Perishing (#441)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
@@ -883,6 +907,7 @@ Rescue the Perishing (#441)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, duty demands it; <br/>
 Strength for thy labor the Lord will provide;
 
@@ -895,6 +920,7 @@ Rescue the Perishing (#441)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
 Rescue the perishing, care for the dying, <br/>
 Jesus is merciful, Jesus will save.
 
