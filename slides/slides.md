@@ -13,7 +13,7 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> id="song1" -->
-## Before the Throne of God Above
+## Before the Throne <br>of God Above
 
 <div class="caption">
 Words: Charitie Lees Bancroft, 1863. Music: Vikki Cook <br/>
@@ -104,7 +104,7 @@ Before the Throne of God Above
 
 ---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> id="song2" -->
-## Take My Life and Let It Be (#597)
+## Take My Life and Let It Be Consecrated (#597)
 
 <div class="caption">
 Words: Frances Ridley Havergal, 1874<br>
@@ -205,6 +205,15 @@ Take My Life and Let It Be (#597)
 
 ---
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="song3" -->
+## 'Tis So Sweet to Trust in Jesus (#581)
+
+<div class="caption">
+Words: Louisa M. R. Stead, 1882<br>
+Music: William J. Kirkpatrick
+</div>
+
+******
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 ’Tis so sweet to trust in Jesus, <br>
 Just to take Him at His Word;
 
@@ -213,8 +222,7 @@ And to know, “Thus saith the Lord!”
 
 <div class="caption">
 **V1** C V2 C V3 C<br>
-'Tis So Sweet to Trust in Jesus (581)<br>
-Words: Louisa M. R. Stead, 1882.  Music: William J. Kirkpatrick.
+'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
 ******
@@ -227,7 +235,7 @@ Oh, for grace to trust Him more!
 
 <div class="caption">
 V1 **C** V2 C V3 C<br>
-'Tis So Sweet to Trust in Jesus (581)
+'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
 ******
@@ -240,7 +248,7 @@ And in simple faith to plunge me <br>
 
 <div class="caption">
 V1 C **V2** C V3 C<br>
-'Tis So Sweet to Trust in Jesus (581)
+'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
 ******
@@ -253,7 +261,7 @@ Oh, for grace to trust Him more!
 
 <div class="caption">
 V1 C V2 **C** V3 C<br>
-'Tis So Sweet to Trust in Jesus (581)
+'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
 ******
@@ -266,7 +274,7 @@ Wilt be with me to the end.
 
 <div class="caption">
 V1 C V2 C **V3** C<br>
-'Tis So Sweet to Trust in Jesus (581)
+'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
 ******
@@ -279,7 +287,7 @@ Oh, for grace to trust Him more!
 
 <div class="caption">
 V1 C V2 C V3 **C**<br>
-'Tis So Sweet to Trust in Jesus (581)
+'Tis So Sweet to Trust in Jesus (#581)
 </div>
 
 ---
@@ -857,12 +865,25 @@ who dwells on Mount Zion.
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
 ---
-<!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> id="song6" -->
+<!-- .slide: id="song6" -->
 ## Rescue the Perishing [(#441)](# "ref")
-Fanny Crosby
 
-Rescue the perishing, care for the dying, <br/>
-Jesus is merciful, Jesus will save.
+![Fanny Crosby](static/img/Fanny_Crosby_speaking.jpg)
+[Fanny Crosby](https://www.umcdiscipleship.org/resources/history-of-hymns-rescue-the-perishing-crosby)
+
+"Chords that were broken will vibrate once more"
+
+<div class="caption">
+Words: Frances J. Crosby, 1869<br>
+Music: W. Howard Doane
+</div>
+
+>>>
++ NYC Bowery mission for men: "one who had wandered from his mother’s home and teaching"
++ 18yo: "Did you mean me Miss Crosby? I promised my mother to meet her in heaven, but as I am now living that will be impossible."
++ "Now I am ready to meet my mother in Heaven, for I have found God."
++ finished song lyrics that night
++ 1903 YMCA in MA: "I was the boy" "If we never meet again on earth, we will meet up yonder"
 
 ******
 <!-- .slide: <%= bg("unsplash-C2PvO6dOORY-girls_walk.jpg") %> -->
