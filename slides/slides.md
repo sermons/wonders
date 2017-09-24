@@ -675,6 +675,7 @@ who dwells on Mount Zion.
 ![Robert Robinson](static/img/Robinson.jpg)
 </div><div>
 [Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
+<br>
 
 "Prone to wander, Lord, I feel it"
 </div></div>
@@ -877,6 +878,7 @@ who dwells on Mount Zion.
 ![Fanny Crosby](static/img/Fanny_Crosby_speaking.jpg)
 </div><div>
 [Fanny Crosby](https://www.umcdiscipleship.org/resources/history-of-hymns-rescue-the-perishing-crosby)
+<br>
 
 "Chords that were broken will vibrate once more"
 </div></div>
