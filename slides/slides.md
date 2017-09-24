@@ -204,7 +204,7 @@ Take My Life and Let It Be (#597)
 # Worship in Giving
 
 ---
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="song3" -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> id="song3" -->
 ## 'Tis So Sweet to Trust in Jesus (#581)
 
 <div class="caption">
@@ -213,7 +213,7 @@ Music: William J. Kirkpatrick
 </div>
 
 ******
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 ’Tis so sweet to trust in Jesus, <br>
 Just to take Him at His Word;
 
@@ -226,7 +226,7 @@ And to know, “Thus saith the Lord!”
 </div>
 
 ******
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
 
@@ -239,7 +239,7 @@ V1 **C** V2 C V3 C<br>
 </div>
 
 ******
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 Oh, how sweet to trust in Jesus, <br>
 Just to trust His cleansing blood;
 
@@ -252,7 +252,7 @@ V1 C **V2** C V3 C<br>
 </div>
 
 ******
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
 
@@ -265,7 +265,7 @@ V1 C V2 **C** V3 C<br>
 </div>
 
 ******
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 I’m so glad I learned to trust Thee, <br>
 Precious Jesus, Savior, Friend;
 
@@ -278,7 +278,7 @@ V1 C V2 C **V3** C<br>
 </div>
 
 ******
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
 
@@ -460,12 +460,11 @@ therefore also through Him is our  <br/>
 
 <div class="imgbox"><div>
 ![Horatio Spafford](static/img/Horatio_Spafford.jpg)
-Horatio Spafford
-
-[Leben](http://leben.us/shipwreck-american-colony/)
-[LoC](https://www.loc.gov/exhibits/americancolony/amcolony-family.html)
 </div><div>
 ![telegram from Anna Spafford](static/img/Spafford_telegram.jpg)
+Horatio Spafford
+[(Leben)](http://leben.us/shipwreck-american-colony/)
+[(LoC)](https://www.loc.gov/exhibits/americancolony/amcolony-family.html)
 </div>
 
 >>>
@@ -671,8 +670,8 @@ who dwells on Mount Zion.
 <!-- .slide: id="song5" -->
 ## Come, Thou Fount [(#11)](# "ref")
 
-![Robert Robinson](static/img/Robinson.jpg)
 [Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
+![Robert Robinson](static/img/Robinson.jpg)
 
 >>>
 + dad died when young
