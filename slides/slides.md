@@ -4,14 +4,15 @@
 ### 24 Sep 2017
 
 ---
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 # Opening Prayer
 
 ---
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 # AFBC Family Life
 
 ---
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 Before the throne of God above <br/>
 I have a strong, a perfect plea:
 
