@@ -295,11 +295,9 @@ V1 C V2 C V3 **C**<br>
 # For Signs and Wonders
 ## Isaiah 8:16-22
 
----
+******
 <!-- .slide: data-background="white" -->
 # Why does God give us **family**?
-
-[###](#/outline "secret")
 
 >>>
 + **natural** family, **church** family
@@ -307,7 +305,7 @@ V1 C V2 C V3 **C**<br>
 + Isaiah: a prophet + his family amidst unstable times
 + purpose of family: witness of God's power 
 
-******
+---
 [16](# "ref")
 Bind up the **testimony**; <br/>
 seal the **teaching** among my disciples.
@@ -394,7 +392,7 @@ And they will be thrust into thick **darkness**.
   + but &ge;16yrs (Jotham) until word
   + peace dissolves w/Ahaz
 
----
+******
 <!-- .slide: <%= bg("flickr-telemax-8605734851-esther_scroll.jpg") %> -->
 **Bind** up the **testimony**; <br/>
 **seal** the **teaching** among my disciples.
@@ -408,7 +406,7 @@ And they will be thrust into thick **darkness**.
 >>>
 + **bind/seal**: to remember/save 
 
----
+******
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 I will **wait** for the Lord,
 
@@ -422,7 +420,7 @@ and I will **hope** in him.
 >>>
 + **wait/eager**: for God's judgment 
 
----
+******
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 Go out to meet Ahaz, <br/>
 you and **Shear-Jashub** your son
@@ -437,7 +435,7 @@ you and **Shear-Jashub** your son
   + *She-ar-yashub*: remnant will return
   + **remnant**: (6:13) stump/seed 
 
----
+******
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 For as many as are the **promises** of God, <br/>
 in Him they are **yes**;
@@ -451,7 +449,7 @@ therefore also through Him is our  <br/>
 + not yes/no in coming to Corinth
 + **promises** of God
 
----
+******
 <!-- .slide: data-background="white" -->
 # Is our family **waiting** for God to save His **remnant**?
 
@@ -585,7 +583,7 @@ It Is Well with My Soul (#705)
 1. The Word Dwelling Among Us [(v19-22)](# "ref")
   + "Immanuel"
 
----
+******
 <!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
@@ -601,7 +599,7 @@ who dwells on Mount Zion.
 + **sign**: points to God 
   + **wonder**: miracle, amazement: God's power, not our success
 
----
+******
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 Call his name **Maher-shalal-hash-baz**; <br/>
 [4](# "ref")
@@ -621,7 +619,7 @@ will be **carried away** before the king of Assyria.
   + (2Ch 28:22-23) Ahaz worship Aram gods (Is 8:6) 
   + Assyria conquers Aram (2Ki 16), Israel (17), then fights Judah (18)
 
----
+******
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 Jesus came to Bethany, where **Lazarus** was, <br/>
 whom Jesus had **raised** from the dead.
@@ -637,7 +635,7 @@ with him at table.
 (img: Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706)
 </div>
 
----
+******
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 When the large **crowd** of the Jews <br/>
 learned that **Jesus** was there, they **came**,
@@ -651,7 +649,7 @@ whom he had **raised** from the dead.
 >>>
 + 10-11 planned to kill Lazarus, too
 
----
+******
 <!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
@@ -663,7 +661,7 @@ who dwells on Mount Zion.
 
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
----
+******
 <!-- .slide: data-background="white" -->
 # What is my family a **testimony** of?
 
@@ -783,7 +781,7 @@ Come, Thou Fount of Every Blessing (11)
 >>>
 + where to find help? Source of **security**? 
 
----
+******
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 And when they say to you, <br/>
 “Inquire of the **mediums** [...]"
@@ -795,7 +793,7 @@ should not a people inquire of their **God**? <br/>
 >>>
 + what we **turn** to in times of **distress**
 
----
+******
 <!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 To the **teaching** and to the **testimony**!
 
@@ -808,7 +806,7 @@ it is because they have no **dawn**.
   + **testimy**: witness, God's **work** in us
 + **light of dawn**: (Ps 119:105) Word is lamp 
 
----
+******
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 And when they are hungry, <br/>
 they will be **enraged**
@@ -822,7 +820,7 @@ and turn their faces **upward**.
 >>>
 + up: curse king/country/God 
 
----
+******
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 And they will look to the **earth**, <br/>
 but behold, **distress** and darkness, <br/>
@@ -835,7 +833,7 @@ And they will be thrust into thick **darkness**.
 >>>
 + down: darkness, distress, frustration 
 
----
+******
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
 Therefore the **Lord** himself <br/>
 will give you a **sign**.
@@ -854,11 +852,11 @@ and shall call his name **Immanuel**.
 + God with us
 + ch9: light dawns in the darkness
 
----
+******
 <!-- .slide: data-background="white" -->
 # Does my family point to <br> God's **light** in <br> this **dark** world?
 
----
+******
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
