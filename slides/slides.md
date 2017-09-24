@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
 # Welcome
-## Aldergrove Fellowship Baptist
+## Aldergrove <br>Fellowship Baptist
 ### 24 Sep 2017
 
 ---
@@ -465,7 +465,7 @@ therefore also through Him is our  <br/>
 Horatio Spafford
 [(Leben)](http://leben.us/shipwreck-american-colony/)
 [(LoC)](https://www.loc.gov/exhibits/americancolony/amcolony-family.html)
-</div>
+</div></div>
 
 >>>
 + success Chicago lawyer, 5 kids
@@ -867,10 +867,13 @@ who dwells on Mount Zion.
 <!-- .slide: id="song6" -->
 ## Rescue the Perishing [(#441)](# "ref")
 
+<div class="imgbox"><div>
 ![Fanny Crosby](static/img/Fanny_Crosby_speaking.jpg)
+</div><div>
 [Fanny Crosby](https://www.umcdiscipleship.org/resources/history-of-hymns-rescue-the-perishing-crosby)
 
 "Chords that were broken will vibrate once more"
+</div></div>
 
 <div class="caption">
 Words: Frances J. Crosby, 1869<br>
