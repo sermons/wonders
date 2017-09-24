@@ -464,8 +464,8 @@ therefore also through Him is our  <br/>
 </div><div>
 ![telegram from Anna Spafford](static/img/Spafford_telegram.jpg)
 Horatio Spafford
-[(Leben)](http://leben.us/shipwreck-american-colony/)
-[(LoC)](https://www.loc.gov/exhibits/americancolony/amcolony-family.html)
+[(Leben)](http://leben.us/shipwreck-american-colony/ "ref")
+[(LoC)](https://www.loc.gov/exhibits/americancolony/amcolony-family.html "ref")
 </div></div>
 
 >>>
@@ -671,8 +671,13 @@ who dwells on Mount Zion.
 <!-- .slide: id="song5" -->
 ## Come, Thou Fount [(#11)](# "ref")
 
-[Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
+<div class="imgbox"><div>
 ![Robert Robinson](static/img/Robinson.jpg)
+</div><div>
+[Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
+
+"Prone to wander, Lord, I feel it"
+</div></div>
 
 >>>
 + dad died when young
