@@ -447,9 +447,29 @@ therefore also through Him is our  <br/>
 # Is our family **waiting** for God to save His **remnant**?
 
 ---
-<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="song4" -->
+<!-- .slide: id="song4" -->
 ## It Is Well with My Soul [(#705)](# "ref")
+
+<div class="imgbox"><div>
+![Horatio Spafford](static/img/Horatio_Spafford.jpg)
 Horatio Spafford
+
+[Leben](http://leben.us/shipwreck-american-colony/)
+[LoC](https://www.loc.gov/exhibits/americancolony/amcolony-family.html)
+</div><div>
+![telegram from Anna Spafford](static/img/Spafford_telegram.jpg)
+</div>
+
+>>>
++ success Chicago lawyer, 5 kids
++ 1870 4yo son died of scarlet fever
++ 1871 great Chicago fire, Anna health
++ 1873 sail to Europe: wife, 4 daughters
+  + stormy seas, collision
++ Anna: "saved alone. What shall I do?"
++ passed over spot of shipwreck
++ Moody: "you must be so busy helping those who have gone into the depths of despair that you will overcome your own affliction by bringing comfort and salvation to others."
++ (utopian commune in Jerusalem: American Colony)
 
 ******
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
@@ -640,10 +660,22 @@ who dwells on Mount Zion.
 # What is my family a **testimony** of?
 
 ---
-<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> id="song5" -->
+<!-- .slide: id="song5" -->
 ## Come, Thou Fount [(#11)](# "ref")
 
+![Robert Robinson](static/img/Robinson.jpg)
 [Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
+
+>>>
++ dad died when young
++ drunk, troublemaker
++ 17yo: Methodist George Whitefield
+  + took friends to heckle
+  + "you brood of vipers" (Mt3:7)
++ 20yo: repented, aspire preacher
++ 22yo: wrote hymn
++ unverified story: lady singing in coach
+  + "I am the poor unhappy man who wrote that hymn many years ago, and I would give a thousand worlds, if I had them, to enjoy the feelings I had then."
 
 ******
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
