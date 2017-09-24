@@ -12,6 +12,16 @@
 # AFBC Family Life
 
 ---
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> id="song1" -->
+## Before the Throne of God Above
+
+<div class="caption">
+Words: Charitie Lees Bancroft, 1863. Music: Vikki Cook <br/>
+&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna <br>
+CCLI licence 265772 (AFBC)
+</div>
+
+******
 <!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 Before the throne of God above <br/>
 I have a strong, a perfect plea:
@@ -21,13 +31,11 @@ who ever lives and pleads for me.
 
 <div class="caption">
 **V1** C1 V2 C2 V3 C3 <br/>
-Before the Throne of God Above <br/>
-Words: Charitie Lees Bancroft. Music: Vikki Cook <br/>
-&copy; 1997 Sovereign Grace Worship / Integrity's Hosanna <br>
-CCLI licence 265772 (AFBC)
+Before the Throne of God Above
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 My name is graven on His hands, <br/>
 my name is written on His heart;
 
@@ -41,6 +49,7 @@ Before the Throne of God Above
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 When Satan tempts me to despair <br/>
 and tells me of the guilt within,
 
@@ -53,6 +62,7 @@ Before the Throne of God Above
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 Because the sinless Savior died, <br/>
 my sinful soul is counted free,
 
@@ -66,6 +76,7 @@ Before the Throne of God Above
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 Behold Him there! the risen Lamb! <br/>
 my perfect, spotless righteousness,
 
@@ -78,6 +89,7 @@ Before the Throne of God Above
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-dVV1h3odR9s-norway_aurora.jpg") %> -->
 One with Himself, I cannot die; <br/>
 my soul is purchased by His blood;
 
@@ -91,6 +103,16 @@ Before the Throne of God Above
 </div>
 
 ---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> id="song2" -->
+## Take My Life and Let It Be (#597)
+
+<div class="caption">
+Words: Frances Ridley Havergal, 1874<br>
+Music: Henri Abraham Cesar Malan
+</div>
+
+******
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my life and let it be <br>
 Consecrated, Lord, to Thee.
 
@@ -100,11 +122,11 @@ Let them flow in ceaseless praise.
 
 <div class="caption">
 **V1** V2 V3 V4 V5 V6<br>
-Take My Life and Let It Be (597)<br>
-Words: Frances Ridley Havergal, 1874. Music: Henri Abraham Cesar Malan<br>
+Take My Life and Let It Be (#597)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my hands and let them move <br>
 At the impulse of Thy love.
 
@@ -114,10 +136,11 @@ Swift and beautiful for Thee.
 
 <div class="caption">
 V1 **V2** V3 V4 V5 V6<br>
-Take My Life and Let It Be (597)
+Take My Life and Let It Be (#597)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my voice and let me sing, <br>
 Always, only for my King.
 
@@ -127,10 +150,11 @@ Filled with messages from Thee.
 
 <div class="caption">
 V1 V2 **V3** V4 V5 V6<br>
-Take My Life and Let It Be (597)
+Take My Life and Let It Be (#597)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my silver and my gold, <br>
 Not a mite would I withhold.
 
@@ -140,10 +164,11 @@ Every pow’r as Thou shalt choose.
 
 <div class="caption">
 V1 V2 V3 **V4** V5 V6<br>
-Take My Life and Let It Be (597)
+Take My Life and Let It Be (#597)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my will and make it Thine, <br>
 It shall be no longer mine.
 
@@ -153,10 +178,11 @@ It shall be Thy royal throne.
 
 <div class="caption">
 V1 V2 V3 V4 **V5** V6<br>
-Take My Life and Let It Be (597)
+Take My Life and Let It Be (#597)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Take my love, my Lord, I pour <br>
 At Thy feet its treasure store.
 
@@ -166,18 +192,19 @@ Ever, only, all for Thee.
 
 <div class="caption">
 V1 V2 V3 V4 V5 **V6**<br>
-Take My Life and Let It Be (597)
+Take My Life and Let It Be (#597)
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 # Prayer
 
 ---
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 # Worship in Giving
 
 ---
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="song3" -->
 ’Tis so sweet to trust in Jesus, <br>
 Just to take Him at His Word;
 
@@ -191,6 +218,7 @@ Words: Louisa M. R. Stead, 1882.  Music: William J. Kirkpatrick.
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
 
@@ -203,6 +231,7 @@ V1 **C** V2 C V3 C<br>
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 Oh, how sweet to trust in Jesus, <br>
 Just to trust His cleansing blood;
 
@@ -215,6 +244,7 @@ V1 C **V2** C V3 C<br>
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
 
@@ -227,6 +257,7 @@ V1 C V2 **C** V3 C<br>
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 I’m so glad I learned to trust Thee, <br>
 Precious Jesus, Savior, Friend;
 
@@ -239,6 +270,7 @@ V1 C V2 C **V3** C<br>
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 Jesus, Jesus, how I trust Him! <br>
 How I’ve proved Him o’er and o’er;
 
@@ -251,9 +283,21 @@ V1 C V2 C V3 **C**<br>
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
-## Scripture Reading:
-# [Isaiah 8:16-22](# "ref")
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="sermon" -->
+# For Signs and Wonders
+## Isaiah 8:16-22
+
+---
+<!-- .slide: data-background="white" -->
+# Why does God give us **family**?
+
+[###](#/outline "secret")
+
+>>>
++ **natural** family, **church** family
+  + local community
++ Isaiah: a prophet + his family amidst unstable times
++ purpose of family: witness of God's power 
 
 ******
 [16](# "ref")
@@ -324,23 +368,6 @@ And they will be thrust into thick **darkness**.
 <%= bible('is8.21-22', 'Isaiah 8:21-22 (ESV) (p.5/5)', 'ESV') %>
 
 ---
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
-# For Signs and Wonders
-## Isaiah 8:16-22
-
----
-<!-- .slide: data-background="white" -->
-# Why does God give us **family**?
-
-[###](#/outline "secret")
-
->>>
-+ **natural** family, **church** family
-  + local community
-+ Isaiah: a prophet + his family amidst unstable times
-+ purpose of family: witness of God's power 
-
----
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="outline" -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant **Waiting** Upon the Lord [(v16-17)](# "ref")
@@ -356,10 +383,15 @@ And they will be thrust into thick **darkness**.
   + peace dissolves w/Ahaz
 
 ---
+<!-- .slide: <%= bg("flickr-telemax-8605734851-esther_scroll.jpg") %> -->
 **Bind** up the **testimony**; <br/>
 **seal** the **teaching** among my disciples.
 
 <%= bible('is8.16', 'Isaiah 8:16 (ESV)', 'ESV') %>
+
+<div class="caption">
+[(img: &copy; 2013 Tilemahos Efthimiadis, CC-BY-SA 2.0)](https://www.flickr.com/photos/telemax/8605734851/)
+</div>
 
 >>>
 + **bind/seal**: to remember/save 
