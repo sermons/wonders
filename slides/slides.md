@@ -397,6 +397,7 @@ And they will be thrust into thick **darkness**.
 + **bind/seal**: to remember/save 
 
 ---
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 I will **wait** for the Lord,
 
 who is **hiding** his face <br/>
@@ -410,6 +411,7 @@ and I will **hope** in him.
 + **wait/eager**: for God's judgment 
 
 ---
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 Go out to meet Ahaz, <br/>
 you and **Shear-Jashub** your son
 
@@ -424,6 +426,7 @@ you and **Shear-Jashub** your son
   + **remnant**: (6:13) stump/seed 
 
 ---
+<!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 For as many as are the **promises** of God, <br/>
 in Him they are **yes**;
 
@@ -441,10 +444,12 @@ therefore also through Him is our  <br/>
 # Is our family **waiting** for God to save His **remnant**?
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="song4" -->
 ## It Is Well with My Soul [(#705)](# "ref")
 Horatio Spafford
 
 ******
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 When peace, like a river, attendeth my way, <br/>
 When sorrows like sea billows roll;
 
@@ -458,6 +463,7 @@ Words: Horatio G. Spafford, 1873. Music: Philip P. Bliss
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 It is well with my soul, <br/>
 It is well, it is well with my soul.
 
@@ -467,6 +473,7 @@ It Is Well with My Soul (#705)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 Though Satan should buffet, <br>
 though trials should come, <br/>
 Let this blest assurance control,
@@ -480,6 +487,7 @@ It Is Well with My Soul (#705)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 It is well with my soul, <br/>
 It is well, it is well with my soul.
 
@@ -489,6 +497,7 @@ It Is Well with My Soul (#705)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 My sin -- oh, the bliss of this glorious thought! -- <br/>
 My sin, not in part but the whole,
 
@@ -501,6 +510,7 @@ It Is Well with My Soul (#705)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 It is well with my soul, <br/>
 It is well, it is well with my soul.
 
@@ -510,6 +520,7 @@ It Is Well with My Soul (#705)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 And Lord, haste the day <br>
 when the faith shall be sight, <br/>
 The clouds be rolled back as a scroll;
@@ -524,6 +535,7 @@ It Is Well with My Soul (#705)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 It is well with my soul, <br/>
 It is well, it is well with my soul.
 
@@ -543,6 +555,7 @@ It Is Well with My Soul (#705)
   + "Immanuel"
 
 ---
+<!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
 
@@ -558,6 +571,7 @@ who dwells on Mount Zion.
   + **wonder**: miracle, amazement: God's power, not our success
 
 ---
+<!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 Call his name **Maher-shalal-hash-baz**; <br/>
 [4](# "ref")
 for before the boy knows how to cry  <br/>
@@ -577,6 +591,7 @@ will be **carried away** before the king of Assyria.
   + Assyria conquers Aram (2Ki 16), Israel (17), then fights Judah (18)
 
 ---
+<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 Jesus came to Bethany, where **Lazarus** was, <br/>
 whom Jesus had **raised** from the dead.
 
@@ -587,7 +602,12 @@ with him at table.
 
 <%= bible('jn12.1-2', 'John 12:1-2 (ESV) (p.1/2)', 'ESV') %>
 
+<div class="caption">
+(img: Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706)
+</div>
+
 ---
+<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 When the large **crowd** of the Jews <br/>
 learned that **Jesus** was there, they **came**,
 
@@ -601,6 +621,7 @@ whom he had **raised** from the dead.
 + 10-11 planned to kill Lazarus, too
 
 ---
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 Behold, I and the **children** <br/>
 whom the Lord has given me
 
@@ -616,11 +637,13 @@ who dwells on Mount Zion.
 # What is my family a **testimony** of?
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> id="song5" -->
 ## Come, Thou Fount [(#11)](# "ref")
 
 [Robert Robinson](https://wordwisehymns.com/2010/06/09/today-in-1790-robert-robinson-died/)
 
 ******
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Come, Thou Fount of every blessing, <br>
 Tune my heart to sing Thy grace;
 
@@ -634,6 +657,7 @@ Words: Robert Robinson, 1758. Music: Asahel Nettleton
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Teach me some melodious sonnet, <br>
 Sung by flaming tongues above;
 
@@ -646,6 +670,7 @@ Come, Thou Fount of Every Blessing (11)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Here I’ll raise my Ebenezer; <br>
 Hither by Thy help I’m come;
 
@@ -658,6 +683,7 @@ Come, Thou Fount of Every Blessing (11)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Jesus sought me when a stranger, <br>
 Wand’ring from the fold of God;
 
@@ -670,6 +696,7 @@ Come, Thou Fount of Every Blessing (11)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Oh, to grace how great a debtor <br>
 Daily I’m constrained to be!
 
@@ -682,6 +709,7 @@ Come, Thou Fount of Every Blessing (11)
 </div>
 
 ******
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Prone to wander, Lord, I feel it, <br>
 Prone to leave the God I love
 
