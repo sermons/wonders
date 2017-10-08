@@ -598,6 +598,7 @@ who dwells on Mount Zion.
 >>>
 + **sign**: points to God 
   + **wonder**: miracle, amazement: God's power, not our success
++ Heb 2:10-13 Christ brought many sons to glory
 
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
