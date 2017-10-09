@@ -22,7 +22,7 @@ module.exports = (grunt) ->
         outputStyle: 'compressed'
       theme:
         files:
-          'static/css/boldblack.css': 'css/boldblack.scss'
+          'static/css/boldblack.css': 'scss/boldblack.scss'
 
     exec:
       print: 'decktape -s 1024x768 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf; true'
@@ -112,7 +112,6 @@ module.exports = (grunt) ->
       'connect:serve'
       'exec:print'
       'exec:thumbnail'
-      'exec:inline'
     ]
 
   grunt.registerTask 'dist',
