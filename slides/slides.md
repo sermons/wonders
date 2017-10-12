@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 # Welcome
 ## Aldergrove <br>Fellowship Baptist
 ### 24 Sep 2017
@@ -291,7 +291,7 @@ V1 C V2 C V3 **C**<br>
 </div>
 
 ---
-<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="sermon" -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="title" -->
 # For Signs and Wonders
 ## Isaiah 8:16-22
 
