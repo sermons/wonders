@@ -29,7 +29,40 @@
         "duration": 115
       },
       {
-        "old": " #ucbc #sermon #FEC #Bethel #RCMB #NSPG"
+        "venue": "North Shore Pacific Grace MB Church",
+        "city": "North Vancouver",
+        "date": "2015-12-27",
+        "duration": 0
+      },
+      {
+        "venue": "Richmond Chinese MB Church",
+        "city": "Richmond",
+        "date": "2015-12-13",
+        "duration": 0
+      },
+      {
+        "venue": "Bethel Chinese MB Church",
+        "city": "Vancouver",
+        "date": "2015-03-22",
+        "duration": 0
+      },
+      {
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2015-03-15",
+        "duration": 0
+      },
+      {
+        "venue": "U-Campus Baptist Church",
+        "city": "Vancouver",
+        "date": "2012-11-25",
+        "duration": 0
+      },
+      {
+        "venue": "Faith Hope Love Church",
+        "city": "White Rock",
+        "date": "2009-03-08",
+        "duration": 0
       }
     ],
     "slides": [
