@@ -62,7 +62,7 @@ section.empty[data-background-image] {
 .reveal section .caption,
 .reveal section a[title="caption"] {
   font-size: 16px;
-  color: #aaaa;
+  color: rgba(160,160,160,0.8);
   position: absolute;
   right: 0.5em;
   bottom: 0.5em;
@@ -70,6 +70,9 @@ section.empty[data-background-image] {
 
 /* Hidden link for private use */
 .reveal a[title="secret"] { opacity: 0.2 }
+
+/* Presentation outline */
+.reveal section .outline { font-size: 1.2em }
 
 /* Flexbox slide layout (Reveal.js display: flex) */
 .reveal section {
