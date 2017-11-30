@@ -106,7 +106,7 @@ And they will be thrust into thick **darkness**.
 
 <%= bible('is8.16', 'Isaiah 8:16 (ESV)', 'ESV') %>
 
-[(&copy; 2013 Tilemahos Efthimiadis, CC-BY-SA 2.0)](https://www.flickr.com/photos/telemax/8605734851/ "caption")
+[&copy; 2013 Tilemahos Efthimiadis, CC-BY-SA 2.0](https://www.flickr.com/photos/telemax/8605734851/ "caption")
 
 >>>
 + **bind/seal**: to remember/save 
