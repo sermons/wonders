@@ -107,9 +107,7 @@ And they will be thrust into thick **darkness**.
 
 <%= bible('is8.16', 'Isaiah 8:16 (ESV)', 'ESV') %>
 
-<div class="caption">
-[(img: &copy; 2013 Tilemahos Efthimiadis, CC-BY-SA 2.0)](https://www.flickr.com/photos/telemax/8605734851/)
-</div>
+[(&copy; 2013 Tilemahos Efthimiadis, CC-BY-SA 2.0)](https://www.flickr.com/photos/telemax/8605734851/ "caption")
 
 >>>
 + **bind/seal**: to remember/save 
@@ -220,9 +218,7 @@ with him at table.
 
 <%= bible('jn12.1-2', 'John 12:1-2 (ESV) (p.1/2)', 'ESV') %>
 
-<div class="caption">
-(img: Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706)
-</div>
+[Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
 ---
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
@@ -330,9 +326,7 @@ and shall call his name **Immanuel**.
 
 <%= bible('is7.14', 'Isaiah 7:14 (ESV)', 'ESV') %>
 
-<div class="caption">
-(img: Rembrandt, "Simeon's Song of Praise", 1631)
-</div>
+[Rembrandt, "Simeon's Song of Praise", 1631](# "caption")
 
 >>>
 + God with us
