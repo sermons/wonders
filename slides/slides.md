@@ -6,6 +6,8 @@
 <!-- .slide: data-background="white" -->
 # Why does God give us **family**?
 
+[###](#/outline "secret")
+
 >>>
 + **natural** family, **church** family
   + local community
