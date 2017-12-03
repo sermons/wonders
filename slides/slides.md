@@ -2,6 +2,13 @@
 # For Signs and Wonders
 ## Isaiah 8:16-22
 
+>>>
++ living in **dark** times
++ Christmas: **light** in darkness
++ series last year on **Isaiah**
++ Isaiah: a prophet + his **family**
+  + amidst **unstable** times
+
 ---
 <!-- .slide: data-background="white" -->
 # Why does God give us **family**?
@@ -11,8 +18,7 @@
 >>>
 + **natural** family, **church** family
   + local community
-+ Isaiah: a prophet + his family amidst unstable times
-+ purpose of family: witness of God's power 
++ purpose of family: witness God's **power **
 
 ---
 [16](# "ref")
@@ -97,9 +103,12 @@ And they will be thrust into thick **darkness**.
   + *"Immanuel"*
 
 >>>
-+ calling: death of Uzziah
-  + but &ge;16yrs (Jotham) until word
-  + peace dissolves w/Ahaz
++ Isaiah's **calling**: **death** of Uzziah
+  + Uz: good, 52yrs, **peaceful**
++ son **Jotham**: good, 16yrs reign
+  + increasing **conflict** w/Israel, Aram
++ son **Ahaz**: evil, 16yrs, open **war**
+  + &rArr; when God **spoke** to Isaiah
 
 ---
 <!-- .slide: <%= bg("flickr-telemax-8605734851-esther_scroll.jpg") %> -->
@@ -112,6 +121,9 @@ And they will be thrust into thick **darkness**.
 
 >>>
 + **bind/seal**: to remember/save 
++ not to **conceal**
++ but to **preserve** for future ref
++ God's word will **surely** be fulfilled
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
