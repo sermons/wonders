@@ -103,6 +103,7 @@ And they will be thrust into thick **darkness**.
   + *"Immanuel"*
 
 >>>
++ **waiting** for God is not easy!
 + Isaiah's **calling**: **death** of Uzziah
   + Uz: good, 52yrs, **peaceful**
 + son **Jotham**: good, 16yrs reign
@@ -219,6 +220,11 @@ therefore also through Him is our  <br/>
 1. The Word Dwelling Among Us [(v19-22)](# "ref")
   + "Immanuel"
 
+>>>
++ as a **family** together:
++ **wait** on God's promises
++ **testify** to God's power + mercy
+
 ---
 <!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 Behold, I and the **children** <br/>
@@ -232,9 +238,11 @@ who dwells on Mount Zion.
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
 >>>
-+ **sign**: points to God 
-  + **wonder**: miracle, amazement: God's power, not our success
-+ Heb 2:10-13 Christ brought many sons to glory
++ **sign**: points to God (e.g., freeway)
+  + **wonder**: miracle, amazement:
+  + **God's** power, not our success
++ Heb 2:10-13 **Christ** brought many sons to glory
++ 2nd of Is's **children** mentioned:
 
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
@@ -250,11 +258,13 @@ will be **carried away** before the king of Assyria.
 <%= bible('is8.3-4', 'Isaiah 8:3-4 (ESV)', 'ESV') %>
 
 >>>
-+ sign of coming judgment
++ sign of coming **judgment**
 + "swift-plunder-haste-prey"
   + (2Ch 28:5) Aram defeats Ahaz 
   + (2Ch 28:22-23) Ahaz worship Aram gods (Is 8:6) 
   + Assyria conquers Aram (2Ki 16), Israel (17), then fights Judah (18)
++ I'm just a **kid**, what can I do?
+  + &rArr; **Lazarus**, after raised:
 
 ---
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
@@ -282,7 +292,8 @@ whom he had **raised** from the dead.
 <%= bible('jn12.9', 'John 12:9 (ESV) (p.2/2)', 'ESV') %>
 
 >>>
-+ 10-11 planned to kill Lazarus, too
++ 10-11 planned to kill Lazarus, too!
++ what mighty **miracle** did Lazarus perform?
 
 ---
 <!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
@@ -296,9 +307,22 @@ who dwells on Mount Zion.
 
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
+>>>
++ our **story**: we are **alive** in Christ
+  + not just going through **motions**
+  + new **life** set free from sin
+  + **deemed** righteous by God's grace
++ not how **holy** our family is
+  + but how **merciful** God is
+
 ---
 <!-- .slide: data-background="white" -->
 # What is my family a **testimony** of?
+
+>>>
++ **boast** of our accomplishments?
++ or our **weakness**
++ that God's **power** may be known?
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
@@ -311,7 +335,10 @@ who dwells on Mount Zion.
   + *"Immanuel"*
 
 >>>
-+ where to find help? Source of **security**? 
++ **wait**
++ **testify** of God's power
++ point to our **help**:
+  + source of **security**
 
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
@@ -323,7 +350,7 @@ should not a people inquire of their **God**? <br/>
 <%= bible('is8.19', 'Isaiah 8:19 (ESV)', 'ESV') %>
 
 >>>
-+ what we **turn** to in times of **distress**
++ where we **turn** in times of **distress**
 
 ---
 <!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
@@ -350,7 +377,9 @@ and turn their faces **upward**.
 <%= bible('is8.21', 'Isaiah 8:21 (ESV)', 'ESV') %>
 
 >>>
-+ up: curse king/country/God 
++ **up**: curse king/country/God 
++ blame authority figures
++ e.g., "bad table", teacher, boss, spouse
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -363,7 +392,7 @@ And they will be thrust into thick **darkness**.
 <%= bible('is8.22', 'Isaiah 8:22 (ESV)', 'ESV') %>
 
 >>>
-+ down: darkness, distress, frustration 
++ **down**: darkness, distress, frustration 
 
 ---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
@@ -380,11 +409,17 @@ and shall call his name **Immanuel**.
 
 >>>
 + God with us
-+ ch9: light dawns in the darkness
++ ch9: light **dawns** in the darkness
 
 ---
 <!-- .slide: data-background="white" -->
 # Does my family point to <br> God's **light** in <br> this **dark** world?
+
+>>>
++ Christmas season
++ grapple w/**darkness** in world today
++ but point to **light** in Immanuel
+  + God with us
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
