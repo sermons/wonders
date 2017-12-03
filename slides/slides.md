@@ -108,7 +108,7 @@ And they will be thrust into thick **darkness**.
 + son **Jotham**: good, 16yrs reign
   + increasing **conflict** w/Israel, Aram
 + son **Ahaz**: evil, 16yrs, open **war**
-  + &rArr; when God **spoke** to Isaiah
+  + &rArr; when God **spoke** to Isaiah:
 
 ---
 <!-- .slide: <%= bg("flickr-telemax-8605734851-esther_scroll.jpg") %> -->
@@ -121,9 +121,11 @@ And they will be thrust into thick **darkness**.
 
 >>>
 + **bind/seal**: to remember/save 
-+ not to **conceal**
-+ but to **preserve** for future ref
+  + not to **conceal**
+  + but **preserve** for future
 + God's word will **surely** be fulfilled
++ &rArr; **remember** His promises
+  + **justice** + **mercy**
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
@@ -137,7 +139,13 @@ and I will **hope** in him.
 <%= bible('is8.16', 'Isaiah 8:16 (ESV)', 'ESV') %>
 
 >>>
-+ **wait/eager**: for God's judgment 
++ **wait** (eager): for God's visitation
++ when feel God has **forgotten** us
++ when others **give up** on God
+  + and trust in **self**
++ &rArr; keep **hope** in God
++ Aram + Israel **threaten** Judah/Ahaz
+  + God &rarr; Is &rarr; Ahaz:
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -150,9 +158,31 @@ you and **Shear-Jashub** your son
 <%= bible('is7.3-4', 'Isaiah 7:3-4 (ESV)', 'ESV') %>
 
 >>>
-+ **Is7:3-4** took son along
-  + *She-ar-yashub*: remnant will return
-  + **remnant**: (6:13) stump/seed 
++ "careful": **watch** (self), preserve God's cmd
+  + "**quiet**": undisturbed, not shaken
+  + "**fear**" + **faint**-hearted
++ took **son** along:
+  + both **learn** + **testify**
+  + *She-ar-yashub*: **remnant** will return
++ even in Is's **calling**:
+  + warning of **disaster**, judgment
+  + but promise of a remnant **stump**:
+
+---
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
+But as the terebinth and **oak** <br/>
+leave **stumps** when they are cut down,
+
+so the **holy seed** will be the stump in the land.
+
+[Isaiah 6:13 (NIV)](# "ref")
+
+>>>
++ **oak**: 1st, preeminent, landmark
++ **stump**: stone, obelisk, (fort)
++ holy **Seed** (sing.): (Gen3:15)
+  + A **remnant** redeem by Jesus
++ God's **promises** always **faithful**:
 
 ---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
@@ -171,6 +201,13 @@ therefore also through Him is our  <br/>
 ---
 <!-- .slide: data-background="white" -->
 # Is our family **waiting** for God to save His **remnant**?
+
+>>>
++ **know** what God has promised
++ **trust** His promises
+  + don't **faint**
++ **obey** what He says
+  + entrust the **rest** to Him
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
