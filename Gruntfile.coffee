@@ -40,12 +40,12 @@ module.exports = (grunt) ->
           src: [
             'static/**'
             'index.html'
-            '<%= pkg.shortname %>.html'
           ]
           dest: 'dist/'
         },{
+          expand: true
           flatten: true
-          src: 'static/img/favicon.ico'
+          src: 'static/img/favicon.*'
           dest: 'dist/'
         }]
 
