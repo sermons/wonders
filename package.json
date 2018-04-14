@@ -8,7 +8,7 @@
     "talks",
     "ppt"
   ],
-  "version": "1.6.17",
+  "version": "1.6.21",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "wonders.seanho.com",
@@ -81,6 +81,7 @@
       "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0",
+    "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js",
     "css": [
       {
         "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
