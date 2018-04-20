@@ -3,9 +3,6 @@
 ## Isaiah 8:16-22
 
 >>>
-+ living in **dark** times
-+ Christmas: **light** in darkness
-+ series last year on **Isaiah**
 + Isaiah: a prophet + his **family**
   + amidst **unstable** times
 
@@ -17,8 +14,8 @@
 
 >>>
 + **natural** family, **church** family
-  + local community
-+ purpose of family: witness God's **power **
+  + local **community**
++ **purpose** of family: be a witness to God's **power**
 
 ---
 [16](# "ref")
