@@ -3,8 +3,15 @@
 ## Isaiah 8:16-22
 
 >>>
-+ Isaiah: a prophet + his **family**
++ We live in **unstable** times
+  + **job** security, **wars**, **unrest**
++ How do we live as **families** in this era?
+  + e.g., after 9/11: some hesitated to have **kids**
+  + in such a **deadly** world
++ The story of **Isaiah** is that of
+  + a **prophet** + his **family**
   + amidst **unstable** times
++ In these **uncertain** times:
 
 ---
 <!-- .slide: data-background="white" -->
@@ -13,9 +20,11 @@
 [###](#/outline "secret")
 
 >>>
-+ **natural** family, **church** family
-  + local **community**
-+ **purpose** of family: be a witness to God's **power**
++ Is it "raise a **son**, so he will **care** for me in old age"?
+  + To leave a **legacy** / so I will be **remembered**?
+  + **Achieve** what I could not?
++ God's **purpose** for family:
+  + To be a **witness** to God's **power**
 
 ---
 [16](# "ref")
@@ -100,13 +109,26 @@ And they will be thrust into thick **darkness**.
   + *"Immanuel"*
 
 >>>
-+ **waiting** for God is not easy!
-+ Isaiah's **calling**: **death** of Uzziah
-  + Uz: good, 52yrs, **peaceful**
-+ son **Jotham**: good, 16yrs reign
++ Today's encouragement is not only for
+  + our **natural** families, but also
+  + our **church** family together, as part of
+  + the **global** body of Christ:
++ Our purpose as a family is to:
+  + **Wait** for the Lord to fulfill His promises
+  + **Testify** to God's power and judgment
+  + Bring God's **Word** made flesh, Jesus Christ, to the nations
++ Along the way, we'll encounter 3 **children**
+  + whose **names** each have important meaning.
+______
++ **Waiting** for God is not easy!
++ King **Uzziah**: righteous, 52yrs of **peace**
+  + but then **died**
++ then God **calls** Isaiah
+  + but **waits** again for many years:
++ son **Jotham**: good, but only 16yrs reign
   + increasing **conflict** w/Israel, Aram
 + son **Ahaz**: evil, 16yrs, open **war**
-  + &rArr; when God **spoke** to Isaiah:
+  + &rArr; when God **spoke** again to Isaiah:
 
 ---
 <!-- .slide: <%= bg("flickr-telemax-8605734851-esther_scroll.jpg") %> -->
@@ -138,12 +160,13 @@ and I will **hope** in him.
 
 >>>
 + **wait** (eager): for God's visitation
-+ when feel God has **forgotten** us
++ when we feel God has **forgotten** us
 + when others **give up** on God
-  + and trust in **self**
+  + and trust in **themselves**
 + &rArr; keep **hope** in God
-+ Aram + Israel **threaten** Judah/Ahaz
-  + God &rarr; Is &rarr; Ahaz:
++ when Aram + Israel **threaten** Judah/Ahaz:
+  + God **speaks** to Isaiah
+  + to **speak** to Ahaz:
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -156,15 +179,15 @@ you and **Shear-Jashub** your son
 <%= bible('is7.3-4', 'Isaiah 7:3-4 (ESV)', 'ESV') %>
 
 >>>
-+ "careful": **watch** (self), preserve God's cmd
++ "careful": **watch** (yourself), to **keep** God's commands
   + "**quiet**": undisturbed, not shaken
   + "**fear**" + **faint**-hearted
-+ took **son** along:
-  + both **learn** + **testify**
-  + *She-ar-yashub*: **remnant** will return
-+ even in Is's **calling**:
++ God told Isaiah to take **son** along:
+  + both to **learn** + to **testify**
+  + *She-ar-yashub*: a **remnant** will return
++ even in Isaiah's **calling** in ch6:
   + warning of **disaster**, judgment
-  + but promise of a remnant **stump**:
+  + but promise of a remnant, a **stump**:
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -178,8 +201,9 @@ so the **holy seed** will be the stump in the land.
 >>>
 + **oak**: 1st, preeminent, landmark
 + **stump**: stone, obelisk, (fort)
-+ holy **Seed** (sing.): (Gen3:15)
-  + A **remnant** redeem by Jesus
++ holy **Seed** (singular):
+  + (see Gen3:15: Seed will crush serpent)
+  + A **remnant** redeemed by Jesus
 + God's **promises** always **faithful**:
 
 ---
@@ -193,8 +217,10 @@ therefore also through Him is our  <br/>
 <%= bible('2co1.18', '2 Corinthians 1:18 (NASB)', 'NASB') %>
 
 >>>
-+ not yes/no in coming to Corinth
-+ **promises** of God
++ Paul's promise to visit **Corinth**
+  + not wishy-washy "yes" + "no"
++ but **promises** of God
+  + are **always** YES
 
 ---
 <!-- .slide: data-background="white" -->
@@ -218,9 +244,9 @@ therefore also through Him is our  <br/>
   + "Immanuel"
 
 >>>
-+ as a **family** together:
-+ **wait** on God's promises
-+ **testify** to God's power + mercy
++ as a **family** together, we:
++ (1) **wait** on God's promises
++ (2) **testify** to God's power + mercy
 
 ---
 <!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
@@ -235,11 +261,15 @@ who dwells on Mount Zion.
 <%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
 
 >>>
-+ **sign**: points to God (e.g., freeway)
-  + **wonder**: miracle, amazement:
-  + **God's** power, not our success
++ **sign**: points to God 
+  + We don't marvel at a **freeway sign**
+  + We focus on the **destination**
++ **wonder**: miracle, amazement:
+  + draws **attention**
+  + but not to **our** success
+  + testify to **God's** power
 + Heb 2:10-13 **Christ** brought many sons to glory
-+ 2nd of Is's **children** mentioned:
++ Here the 2nd of Isaiah's **children** mentioned:
 
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
@@ -257,9 +287,13 @@ will be **carried away** before the king of Assyria.
 >>>
 + sign of coming **judgment**
 + "swift-plunder-haste-prey"
-  + (2Ch 28:5) Aram defeats Ahaz 
+  + pretty **awful** name, eh?
++ **power** of God's **judgment**
+  + **hero** of story is **God**, not me
++ (2Ch 28:5) Aram defeats Ahaz 
   + (2Ch 28:22-23) Ahaz worship Aram gods (Is 8:6) 
   + Assyria conquers Aram (2Ki 16), Israel (17), then fights Judah (18)
+  + all this while kid is still a **baby**
 + I'm just a **kid**, what can I do?
   + &rArr; **Lazarus**, after raised:
 
@@ -289,8 +323,15 @@ whom he had **raised** from the dead.
 <%= bible('jn12.9', 'John 12:9 (ESV) (p.2/2)', 'ESV') %>
 
 >>>
-+ 10-11 planned to kill Lazarus, too!
-+ what mighty **miracle** did Lazarus perform?
++ v10-11 Jews planned to **kill** Lazarus, too!
+  + (they should know Jesus can just **raise** him again!)
++ **How** did Laz **testify** to Jesus' power?
+  + perform a mighty **miracle**?
+  + &rArr; just eating **dinner**!
++ We **do** need to use **words** to communicate gospel
++ But our testimony is **also**:
+  + I was **dead** in sin,
+  + now am **alive** in Christ!
 
 ---
 <!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
@@ -307,7 +348,7 @@ who dwells on Mount Zion.
 >>>
 + our **story**: we are **alive** in Christ
   + not just going through **motions**
-  + new **life** set free from sin
+  + have new **life**: set free from sin
   + **deemed** righteous by God's grace
 + not how **holy** our family is
   + but how **merciful** God is
@@ -318,6 +359,7 @@ who dwells on Mount Zion.
 
 >>>
 + **boast** of our accomplishments?
+  + scholarships, work promotions, sports trophies?
 + or our **weakness**
 + that God's **power** may be known?
 
@@ -332,9 +374,9 @@ who dwells on Mount Zion.
   + *"Immanuel"*
 
 >>>
-+ **wait**
-+ **testify** of God's power
-+ point to our **help**:
++ (1) **wait** for God's promises
++ (2) **testify** to God's power
++ (3) **show** the world who our **help** is:
   + source of **security**
 
 ---
@@ -375,8 +417,13 @@ and turn their faces **upward**.
 
 >>>
 + **up**: curse king/country/God 
-+ blame authority figures
-+ e.g., "bad table", teacher, boss, spouse
++ blame **authority** figures
++ e.g., little kid **runs** into a table:
+  + we say "bad table", let's hit the table
++ &rArr; teaches him to **blame** others:
+  + later: "bad teacher", boss, spouse, etc.!
++ ultimately, we blame **God**
+  + for our **frustrations** + anger
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -389,7 +436,9 @@ And they will be thrust into thick **darkness**.
 <%= bible('is8.22', 'Isaiah 8:22 (ESV)', 'ESV') %>
 
 >>>
++ but fighting against God is **futile**
 + **down**: darkness, distress, frustration 
++ but there is **hope**: now we come to the 3rd **child**:
 
 ---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
@@ -405,7 +454,7 @@ and shall call his name **Immanuel**.
 [Rembrandt, "Simeon's Song of Praise", 1631](# "caption")
 
 >>>
-+ God with us
++ **Immanuel**: God with us
 + ch9: light **dawns** in the darkness
 
 ---
@@ -413,10 +462,13 @@ and shall call his name **Immanuel**.
 # Does my family point to <br> God's **light** in <br> this **dark** world?
 
 >>>
-+ Christmas season
-+ grapple w/**darkness** in world today
++ we grapple w/**darkness** in world today
 + but point to **light** in Immanuel
   + God with us
++ Let's **read** together v18,
+  + use it as a **dedication**
+  + our **families** (both natural + church)
+  + pointing to Jesus' **light**:
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
