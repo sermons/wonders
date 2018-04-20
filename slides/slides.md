@@ -3,6 +3,13 @@
 ## Isaiah 8:16-22
 
 >>>
+**TRANSLATORS:** this was originally a 45-min sermon w/o translation,
+so I will be trimming it down considerably!  I will have Chinese for all
+the Bible quotes, I am hoping to have Chinese for the main outline and
+even the review questions, if possible.  If you are able to help me with
+that, I'd be grateful!
+
+______
 + We live in **unstable** times
   + **job** security, **wars**, **unrest**
 + How do we live as **families** in this era?
