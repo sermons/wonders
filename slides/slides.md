@@ -109,11 +109,8 @@ And they will be thrust into thick **darkness**.
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="outline" -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant **Waiting** Upon the Lord [(v16-17)](# "ref")
-  + *"She-ar Yashub"*
 1. The **Wonders** of God's Judgment [(v18)](# "ref")
-  + *"Maher-Shalal Chash-Baz"*
 1. The **Word** Dwelling Among Us [(v19-22)](# "ref")
-  + *"Immanuel"*
 
 >>>
 + Today's encouragement is not only for
@@ -244,11 +241,8 @@ therefore also through Him is our  <br/>
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
-  + "She-ar Yashub"
 1. **The Wonders of God's Judgment** [(v18)](# "ref")
-  + *"Maher-Shalal Chash-Baz"*
 1. The Word Dwelling Among Us [(v19-22)](# "ref")
-  + "Immanuel"
 
 >>>
 + as a **family** together, we:
@@ -374,11 +368,8 @@ who dwells on Mount Zion.
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
-  + "She-ar Yashub"
 1. The Wonders of God's Judgment [(v18)](# "ref")
-  + "Maher-Shalal Chash-Baz"
 1. **The Word Dwelling Among Us** [(v19-22)](# "ref")
-  + *"Immanuel"*
 
 >>>
 + (1) **wait** for God's promises
