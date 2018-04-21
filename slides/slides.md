@@ -23,7 +23,8 @@ ______
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the purpose of **family**?
+## What is the purpose of **family**?
+## <span class="zh">家庭的目的是什麼?</span>
 
 [###](#/outline "secret")
 
@@ -161,9 +162,12 @@ And they will be thrust into thick **darkness**.
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="outline" -->
 ## For Signs and Wonders [(Is8)](# "ref")
-1. The Remnant **Waiting** Upon the Lord [(v16-17)](# "ref")
-1. The **Wonders** of God's Judgment [(v18)](# "ref")
-1. The **Word** Dwelling Among Us [(v19-22)](# "ref")
+1. The Remnant **Waiting** Upon the Lord <br>
+  <span class="zh">餘民等候耶和華</span> [(v16-17)](# "ref")
+1. The **Wonders** of God's Judgment
+  <span class="zh">神審判的奇蹟</span> [(v18)](# "ref")
+1. The **Word** Dwelling Among Us
+  <span class="zh">神的話住在我們中間</span> [(v19-22)](# "ref")
 
 >>>
 + Today's encouragement is not only for
