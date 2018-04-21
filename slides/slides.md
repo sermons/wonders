@@ -1,5 +1,6 @@
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="title" -->
 # For Signs and Wonders
+# <span class="zh">預兆和奇蹟</span>
 ## Isaiah 8:16-22
 
 >>>
