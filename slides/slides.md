@@ -23,8 +23,8 @@ ______
 
 ---
 <!-- .slide: data-background="white" -->
-## What is the purpose of **family**?
-## <span class="zh">家庭的目的是什麼?</span>
+## What is the purpose <br>of **family**?
+# <span class="zh">**家庭**的目的<br>是什麼?</span>
 
 [###](#/outline "secret")
 
@@ -163,11 +163,11 @@ And they will be thrust into thick **darkness**.
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="outline" -->
 ## For Signs and Wonders [(Is8)](# "ref")
 1. The Remnant **Waiting** Upon the Lord <br>
-  <span class="zh">餘民等候耶和華</span> [(v16-17)](# "ref")
-1. The **Wonders** of God's Judgment
-  <span class="zh">神審判的奇蹟</span> [(v18)](# "ref")
-1. The **Word** Dwelling Among Us
-  <span class="zh">神的話住在我們中間</span> [(v19-22)](# "ref")
+  <span class="zh">餘民**等候**耶和華</span> [(v16-17)](# "ref")
+1. The **Wonders** of God's Judgment <br>
+  <span class="zh">神審判的**奇蹟**</span> [(v18)](# "ref")
+1. The **Word** Dwelling Among Us <br>
+  <span class="zh">神的**話**住在我們中間</span> [(v19-22)](# "ref")
 
 >>>
 + Today's encouragement is not only for
@@ -276,7 +276,7 @@ so the **holy seed** will be the stump in the land.
 這聖潔的種類在國中也是如此。
 </div>
 
-[Isaiah 6:13 (NIV)](# "ref")
+[Isaiah 以賽亞書 6:13 (ESV/CUV)](# "ref")
 
 >>>
 + **oak**: 1st, preeminent, landmark
@@ -289,12 +289,16 @@ so the **holy seed** will be the stump in the land.
 ---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 For as many as are the **promises** of God, <br/>
-in Him they are **yes**;
+in Him they are **yes**; <br>
+therefore also through Him is our **Amen**
 
-therefore also through Him is our  <br/>
-**Amen** to the glory of God through us
+<div class="zh">
+神的**應許**， 不論有多少， <br>
+在基督都是**是**的。<br>
+所以藉著他也都是 **阿們** 的
+</div>
 
-<%= bible('2co1.18', '2 Corinthians 1:18 (NASB)', 'NASB') %>
+[2 Corinthians 歌林多後書 1:20 (NASB/CUV)](# "ref")
 
 >>>
 + Paul's promise to visit **Corinth**
@@ -317,9 +321,12 @@ therefore also through Him is our  <br/>
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
-1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
-1. **The Wonders of God's Judgment** [(v18)](# "ref")
-1. The Word Dwelling Among Us [(v19-22)](# "ref")
+1. The Remnant Waiting Upon the Lord <br>
+  <span class="zh">餘民等候耶和華</span> [(v16-17)](# "ref")
+1. **The Wonders of God's Judgment** <br>
+  <span class="zh">**神審判的奇蹟**</span> [(v18)](# "ref")
+1. The Word Dwelling Among Us <br>
+  <span class="zh">神的話住在我們中間</span> [(v19-22)](# "ref")
 
 >>>
 + as a **family** together, we:
@@ -434,7 +441,7 @@ who dwells on Mount Zion.
 ---
 <!-- .slide: data-background="white" -->
 ## What is my family a **testimony** of?
-## <span class="zh">是怎麼樣的見証?</span>
+## <span class="zh">我的家庭是怎麼樣的**見証**?</span>
 
 >>>
 + **boast** of our accomplishments?
@@ -445,9 +452,12 @@ who dwells on Mount Zion.
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 ## For Signs and Wonders [(Is8)](# "ref")
-1. The Remnant Waiting Upon the Lord [(v16-17)](# "ref")
-1. The Wonders of God's Judgment [(v18)](# "ref")
-1. **The Word Dwelling Among Us** [(v19-22)](# "ref")
+1. The Remnant Waiting Upon the Lord <br>
+  <span class="zh">餘民等候耶和華</span> [(v16-17)](# "ref")
+1. The Wonders of God's Judgment <br>
+  <span class="zh">神審判的奇蹟</span> [(v18)](# "ref")
+1. **The Word Dwelling Among Us** <br>
+  <span class="zh">**神的話住在我們中間**</span> [(v19-22)](# "ref")
 
 >>>
 + (1) **wait** for God's promises
