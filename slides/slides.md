@@ -150,8 +150,8 @@ the gloom of anguish. <br>
 And they will be thrust into thick **darkness**.
 
 <div class="zh">
-仰觀上天， 俯察下地，<br>
-不料， 盡是艱難、 黑暗， 和幽暗的痛苦。<br>
+仰觀上天， 俯察下地， 不料， <br>
+盡是艱難、 黑暗， 和幽暗的痛苦。<br>
 他們必被趕入烏黑的黑暗中去。
 </div>
 
