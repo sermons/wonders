@@ -336,14 +336,17 @@ therefore also through Him is our **Amen**
 ---
 <!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 Behold, I and the **children** <br/>
-whom the Lord has given me
+whom the Lord has given me <br>
+are **signs** and **portents** in Israel from the<br>
+Lord of hosts, who dwells on Mount Zion.
 
-are **signs** and portents in Israel
+<div class="zh">
+看哪， 我與耶和華所給我的**兒女**，<br>
+就是從住在錫安山萬軍之耶和華來的，<br>
+在以色列中作為**預兆**和**奇蹟**。
+</div>
 
-from the **Lord** of hosts, <br/>
-who dwells on Mount Zion.
-
-<%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
+[Isaiah 以賽亞書 8:18 (ESV/CUV)](# "ref")
 
 >>>
 + **sign**: points to God 
@@ -367,7 +370,11 @@ the wealth of **Damascus**  <br/>
 and the spoil of **Samaria**  <br/>
 will be **carried away** before the king of Assyria.
 
-<%= bible('is8.3-4', 'Isaiah 8:3-4 (ESV)', 'ESV') %>
+<div class="zh">
+給 他 起 名 叫 瑪 黑 珥 沙 拉 勒 哈 施 罷 斯 ；
+</div>
+
+[Isaiah 以賽亞書 8:3-4 (ESV/CUV)](# "ref")
 
 >>>
 + sign of coming **judgment**
