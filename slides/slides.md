@@ -22,7 +22,7 @@ ______
 
 ---
 <!-- .slide: data-background="white" -->
-# Why does God give us **family**?
+# What is the purpose of **family**?
 
 [###](#/outline "secret")
 
@@ -38,26 +38,42 @@ ______
 Bind up the **testimony**; <br/>
 seal the **teaching** among my disciples.
 
+<div class="zh">
+你要捲起律法書， <br>
+在我門徒中間封住訓誨。
+</div>
+
+[Isaiah 以賽亞書 8:16 (ESV/CUV) (p.1/9)](# "ref")
+
+---
 [17](# "ref")
 I will **wait** for the Lord, <br/>
-who is **hiding** his face <br/>
-from the house of Jacob,
-
+who is **hiding** his face
+from the house of Jacob,<br/>
 and I will **hope** in him.
 
-<%= bible('is8.16-17', 'Isaiah 8:16-17 (ESV) (p.1/6)', 'ESV') %>
+<div class="zh">
+我要等候 <br>
+那掩面不顧雅各家的耶和華； <br>
+我也要仰望他。
+</div>
+
+[Isaiah 以賽亞書 8:17 (ESV/CUV) (p.2/9)](# "ref")
 
 ---
 [18](# "ref")
 Behold, I and the **children** <br/>
-whom the Lord has given me
+whom the Lord has given me <br>
+are **signs** and portents in Israel from the<br>
+**Lord** of hosts, who dwells on Mount Zion.
 
-are **signs** and portents in Israel
+<div class="zh">
+看哪， 我與耶和華所給我的兒女，<br>
+就是從住在錫安山萬軍之耶和華來的，<br>
+在以色列中作為預兆和奇蹟。
+</div>
 
-from the **Lord** of hosts, <br/>
-who dwells on Mount Zion.
-
-<%= bible('is8.18', 'Isaiah 8:18 (ESV) (p.2/6)', 'ESV') %>
+[Isaiah 以賽亞書 8:18 (ESV/CUV) (p.3/9)](# "ref")
 
 ---
 [19](# "ref")
@@ -65,45 +81,81 @@ And when they say to you, <br/>
 “Inquire of the **mediums** and the <br/>
 necromancers who chirp and mutter,”
 
+<div class="zh">
+有人對你們說：<br>
+當求問那些交鬼的和行巫術的，<br>
+就是聲音綿蠻， 言語微細的。
+</div>
+
+[Isaiah 以賽亞書 8:19a (ESV/CUV) (p.4/9)](# "ref")
+
+---
 should not a people inquire of their **God**? <br/>
 Should they inquire of the **dead** <br/>
 on behalf of the **living**?
 
-<%= bible('is8.19', 'Isaiah 8:19 (ESV) (p.3/6)', 'ESV') %>
+<div class="zh">
+你們便回答說：<br>
+百姓不當求問自己的神嗎？<br>
+豈可為活人求問死人呢？
+</div>
+
+[Isaiah 以賽亞書 8:19b (ESV/CUV) (p.5/9)](# "ref")
 
 ---
 [20](# "ref")
-To the **teaching** and to the **testimony**!
-
-If they will not speak <br/>
-according to this **word**, <br/>
+To the **teaching** and to the **testimony**! <br>
+If they will not speak according to this **word**, <br/>
 it is because they have no **dawn**.
 
-<%= bible('is8.20', 'Isaiah 8:20 (ESV) (p.4/6)', 'ESV') %>
+<div class="zh">
+人當以訓誨和法度為標準； <br>
+他們所說的， 若不與此相符， <br>
+必不得見晨光。
+</div>
+
+[Isaiah 以賽亞書 8:20 (ESV/CUV) (p.6/9)](# "ref")
 
 ---
 [21](# "ref")
 They will pass through the land, <br/>
 greatly **distressed** and hungry.
 
-And when they are hungry, <br/>
-they will be **enraged**
+<div class="zh">
+他們必經過這地， <br>
+受艱難， 受飢餓；
+</div>
 
-and will speak **contemptuously** <br/>
-against their **king** and their **God**, <br/>
-and turn their faces upward.
-
-<%= bible('is8.21', 'Isaiah 8:21 (ESV) (p.5/6)', 'ESV') %>
+[Isaiah 以賽亞書 8:21a (ESV/CUV) (p.7/9)](# "ref")
 
 ---
+And when they are hungry, <br/>
+they will be **enraged** <br>
+and will speak **contemptuously** <br/>
+against their **king** and their **God**,
+
+<div class="zh">
+飢餓的時候， 心中焦躁， <br>
+咒罵自己的君王和自己的神。
+</div>
+
+[Isaiah 以賽亞書 8:21b (ESV/CUV) (p.8/9)](# "ref")
+
+---
+and turn their faces **upward**. <br>
 [22](# "ref")
 And they will look to the **earth**, <br/>
 but behold, **distress** and darkness, <br/>
-the gloom of anguish.
-
+the gloom of anguish. <br>
 And they will be thrust into thick **darkness**.
 
-<%= bible('is8.22', 'Isaiah 8:22 (ESV) (p.6/6)', 'ESV') %>
+<div class="zh">
+仰觀上天， 俯察下地，<br>
+不料， 盡是艱難、 黑暗， 和幽暗的痛苦。<br>
+他們必被趕入烏黑的黑暗中去。
+</div>
+
+[Isaiah 以賽亞書 8:22 (ESV/CUV) (p.9/9)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="outline" -->
