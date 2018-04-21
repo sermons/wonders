@@ -267,7 +267,8 @@ leave **stumps** when they are cut down,
 so the **holy seed** will be the stump in the land.
 
 <div class="zh">
-像栗樹、 橡樹雖被砍伐， 樹墩子卻仍存留。<br>
+像栗樹、 橡樹雖被砍伐，<br>
+樹墩子卻仍存留。<br>
 這聖潔的種類在國中也是如此。
 </div>
 
