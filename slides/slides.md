@@ -304,7 +304,8 @@ therefore also through Him is our  <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-# Is our family **waiting** for God to save His **remnant**?
+## Is our family **waiting** for God to save His **remnant**?
+## <span class="zh">我的家庭在等候神拯救衪的餘民嗎?</span>
 
 >>>
 + **know** what God has promised
@@ -432,7 +433,8 @@ who dwells on Mount Zion.
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my family a **testimony** of?
+## What is my family a **testimony** of?
+## <span class="zh">是怎麼樣的見証?</span>
 
 >>>
 + **boast** of our accomplishments?
@@ -533,7 +535,8 @@ and shall call his name **Immanuel**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does my family point to <br> God's **light** in <br> this **dark** world?
+## Does my family point to <br> God's **light** in <br> this **dark** world?
+## <span class="zh">在這黑暗世界中, 我的家庭有指向神的亮光嗎?</span>
 
 >>>
 + we grapple w/**darkness** in world today
