@@ -192,7 +192,12 @@ ______
 **Bind** up the **testimony**; <br/>
 **seal** the **teaching** among my disciples.
 
-<%= bible('is8.16', 'Isaiah 8:16 (ESV)', 'ESV') %>
+<div class="zh">
+你要捲起律法書， <br>
+在我門徒中間封住訓誨。
+</div>
+
+[Isaiah 以賽亞書 8:16 (ESV/CUV)](# "ref")
 
 [&copy; 2013 Tilemahos Efthimiadis, CC-BY-SA 2.0](https://www.flickr.com/photos/telemax/8605734851/ "caption")
 
@@ -206,14 +211,18 @@ ______
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
-I will **wait** for the Lord,
-
-who is **hiding** his face <br/>
-from the house of Jacob,
-
+I will **wait** for the Lord, <br/>
+who is **hiding** his face
+from the house of Jacob,<br/>
 and I will **hope** in him.
 
-<%= bible('is8.16', 'Isaiah 8:16 (ESV)', 'ESV') %>
+<div class="zh">
+我要等候 <br>
+那掩面不顧雅各家的耶和華； <br>
+我也要仰望他。
+</div>
+
+[Isaiah 以賽亞書 8:17 (ESV/CUV)](# "ref")
 
 >>>
 + **wait** (eager): for God's visitation
@@ -228,12 +237,16 @@ and I will **hope** in him.
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 Go out to meet Ahaz, <br/>
-you and **Shear-Jashub** your son
+you and **Shear-Jashub** your son ...<br>
+Say to him, "Be careful, be **quiet**, do not fear"
 
-[...] Say to him, <br/>
-"Be careful, be **quiet**, do not fear"
+<div class="zh">
+你和你的兒子施亞雅述出去，...<br>
+去迎接亞哈斯， 對他說：<br>
+你要謹慎安靜， 不要 ... 害怕
+</div>
 
-<%= bible('is7.3-4', 'Isaiah 7:3-4 (ESV)', 'ESV') %>
+[Isaiah 以賽亞書 7:3-4 (ESV/CUV)](# "ref")
 
 >>>
 + "careful": **watch** (yourself), to **keep** God's commands
@@ -252,6 +265,11 @@ But as the terebinth and **oak** <br/>
 leave **stumps** when they are cut down,
 
 so the **holy seed** will be the stump in the land.
+
+<div class="zh">
+像栗樹、 橡樹雖被砍伐， 樹墩子卻仍存留。<br>
+這聖潔的種類在國中也是如此。
+</div>
 
 [Isaiah 6:13 (NIV)](# "ref")
 
