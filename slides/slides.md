@@ -257,8 +257,7 @@ Say to him, "Be careful, be **quiet**, do not fear"
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 But as the terebinth and **oak** <br/>
-leave **stumps** when they are cut down,
-
+leave **stumps** when they are cut down, <br>
 so the **holy seed** will be the stump in the land.
 
 <div class="zh">
