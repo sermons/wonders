@@ -64,7 +64,7 @@ are **signs** and portents in Israel from the<br>
 
 <div class="zh">
 看哪， 我與耶和華所給我的**兒女**，<br>
-就是從住在錫安山萬軍之耶和華來的，<br>
+就是從住在錫安山萬軍之**耶和華**來的，<br>
 在以色列中作為**預兆**和**奇蹟**。
 </div>
 
@@ -290,7 +290,7 @@ therefore also through Him is our **Amen**
 
 <div class="zh">
 神的**應許**， 不論有多少， <br>
-在基督都是**是**的。<br>
+在基督都是**是的**。<br>
 所以藉著他也都是 **阿們** 的
 </div>
 
@@ -341,7 +341,7 @@ Lord of hosts, who dwells on Mount Zion.
 
 <div class="zh">
 看哪， 我與耶和華所給我的**兒女**，<br>
-就是從住在錫安山萬軍之耶和華來的，<br>
+就是從住在錫安山萬軍之**耶和華**來的，<br>
 在以色列中作為**預兆**和**奇蹟**。
 </div>
 
@@ -473,7 +473,7 @@ Lord of hosts, who dwells on Mount Zion.
 
 <div class="zh">
 看哪， 我與耶和華所給我的**兒女**，<br>
-就是從住在錫安山萬軍之耶和華來的，<br>
+就是從住在錫安山萬軍之**耶和華**來的，<br>
 在以色列中作為**預兆**和**奇蹟**。
 </div>
 
@@ -490,8 +490,8 @@ Lord of hosts, who dwells on Mount Zion.
 
 ---
 <!-- .slide: data-background="white" -->
-## What is my family a **testimony** of?
-## <span class="zh">我的家庭是<br>怎麼樣的**見証**?</span>
+# What is my family a **testimony** of?
+# <span class="zh">我的家庭是<br>怎麼樣的**見証**?</span>
 
 >>>
 + **boast** of our accomplishments?
@@ -643,7 +643,7 @@ Lord of hosts, who dwells on Mount Zion.
 
 <div class="zh">
 看哪， 我與耶和華所給我的**兒女**，<br>
-就是從住在錫安山萬軍之耶和華來的，<br>
+就是從住在錫安山萬軍之**耶和華**來的，<br>
 在以色列中作為**預兆**和**奇蹟**。
 </div>
 
