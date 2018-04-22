@@ -254,7 +254,7 @@ Say to him, "Be careful, be **quiet**, do not fear"
   + not **own** strength
 + God told Isaiah to take **son** along:
   + both to **learn** + to **testify**
-+ *She-ar-yashub*: a **remnant** will return
++ *She-ar-ya-shub*: a **remnant** will return
 + Core **message** of book of Isaiah
   + e.g., Isaiah's **calling** in ch6:
 + warning of **disaster**, judgment, but
@@ -407,7 +407,7 @@ will be **carried away** before the king of Assyria.
   + **Assyria** conquers Aram (2Ki 16)
   + then **Israel** (17), and **Judah** (18)
   + all this while kid is still a **baby**
-+ e.g., as teenager, **mission** trips w/parents
++ e.g., as teenager, short-term **mission** trips w/parents
   + I'm just a **kid**, what can I do?
   + &rArr; **Lazarus**, after raised:
 
@@ -505,7 +505,7 @@ Lord of hosts, who dwells on Mount Zion.
 + we are to be **signs**
   + point to **God**, not ourselves
 + and **wonders** (draw attention)
-  + to His **power** + imminent **judgment**
+  + God's **power** + imminent **judgment**
 + our **story**: we are **alive** in Christ
   + not just going through **motions**
   + but new **life**: set free from sin
@@ -674,7 +674,7 @@ and shall call his name **Immanuel**.
   + God with us
 + Let's **read** together v18,
   + use it as a **dedication**:
-  + may our **families** (natural + church)
++ may our **families** (natural + church)
   + point to Jesus' **light**:
 
 ---
