@@ -247,6 +247,9 @@ Say to him, "Be careful, be **quiet**, do not fear"
 + "careful": **watch** (yourself), to **keep** God's commands
   + "**quiet**": undisturbed, not shaken
   + "**fear**" + **faint**-hearted
++ v9 "If you will not **believe**,
+  + you surely shall not **last**"
+  + 你們若是不信， 定然不得立穩。
 + &rArr; **trust** in God
   + not **own** strength
 + God told Isaiah to take **son** along:
@@ -537,7 +540,8 @@ Lord of hosts, who dwells on Mount Zion.
 + (1) **wait** for God's promises
 + (2) **testify** to God's power
 + (3) **show** the world who our **help** is:
-  + source of **security**
+  + our source of **security**
+  + in **unstable** times
 
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
@@ -556,7 +560,10 @@ should not a people inquire of their **God**? <br/>
 [Nathan Anderson, Silverthorne, Colorado](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
 >>>
++ people of **Judah** living in **fear**
+  + threat of unwinnable **war**
 + where we **turn** in times of **distress**
+  + reflects what I truly **believe**
 
 ---
 <!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
@@ -576,7 +583,8 @@ it is because they have no **dawn**.
 >>>
 + **instr**: Torah, God's **design** for us 
   + **testimy**: witness, God's **work** in us
-+ **light of dawn**: (Ps 119:105) Word is lamp 
++ **light of dawn**: Word as **lamp**
+  + (Ps 119:105)
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -594,12 +602,12 @@ against their **king** and their **God**,
 [Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
-+ **up**: curse king/country/God 
-+ blame **authority** figures
++ first **up**: curse king/God 
+  + blame **authority** figures
 + e.g., little kid **runs** into a table:
-  + we say "bad table", let's hit the table
+  + "bad table", let's hit the table
 + &rArr; teaches him to **blame** others:
-  + later: "bad teacher", boss, spouse, etc.!
+  + "bad teacher", boss, spouse, etc.!
 + ultimately, we blame **God**
   + for our **frustrations** + anger
 
@@ -620,7 +628,12 @@ the gloom of anguish.
 >>>
 + but fighting against God is **futile**
 + **down**: darkness, distress, frustration 
-+ but there is **hope**: now we come to the 3rd **child**:
++ **this** is the world we live in!
+  + **fear** of uncertain future
+  + **anger** at authority + God
+  + **frustration** at own futility
++ &rArr; but there is **hope**:
+  + now we come to 3rd **child**:
 
 ---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
