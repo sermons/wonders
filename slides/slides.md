@@ -1,16 +1,9 @@
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> id="title" -->
-# For Signs and Wonders
-# <span class="zh">預兆和奇蹟</span>
+# For Signs <br> and Wonders
+# <span class="zh">預兆 和 奇蹟</span>
 ## Isaiah 以賽亞書 8:16-22
 
 >>>
-**TRANSLATORS:** this was originally a 45-min sermon w/o translation,
-so I will be trimming it down considerably!  I will have Chinese for all
-the Bible quotes, I am hoping to have Chinese for the main outline and
-even the review questions, if possible.  If you are able to help me with
-that, I'd be grateful!
-
-______
 + We live in **unstable** times
   + **job** security, **wars**, **unrest**
 + How do we live as **families** in this era?
@@ -23,10 +16,8 @@ ______
 
 ---
 <!-- .slide: data-background="white" -->
-## What is the purpose <br>of **family**?
+# What is the [purpose](#/outline) of **family**?
 # <span class="zh">**家庭**的目的<br>是什麼?</span>
-
-[###](#/outline "secret")
 
 >>>
 + Is it "raise a **son**, so he will **care** for me in old age"?
@@ -41,8 +32,8 @@ Bind up the **testimony**; <br/>
 seal the **teaching** among my disciples.
 
 <div class="zh">
-你要捲起律法書， <br>
-在我門徒中間封住訓誨。
+你要捲起律**法書**， <br>
+在我門徒中間封住**訓誨**。
 </div>
 
 [Isaiah 以賽亞書 8:16 (ESV/CUV) (p.1/9)](# "ref")
@@ -55,9 +46,9 @@ from the house of Jacob,<br/>
 and I will **hope** in him.
 
 <div class="zh">
-我要等候 <br>
-那掩面不顧雅各家的耶和華； <br>
-我也要仰望他。
+我要**等候** <br>
+那**掩面不顧**雅各家的耶和華； <br>
+我也要**仰望**他。
 </div>
 
 [Isaiah 以賽亞書 8:17 (ESV/CUV) (p.2/9)](# "ref")
@@ -70,9 +61,9 @@ are **signs** and portents in Israel from the<br>
 **Lord** of hosts, who dwells on Mount Zion.
 
 <div class="zh">
-看哪， 我與耶和華所給我的兒女，<br>
+看哪， 我與耶和華所給我的**兒女**，<br>
 就是從住在錫安山萬軍之耶和華來的，<br>
-在以色列中作為預兆和奇蹟。
+在以色列中作為**預兆**和**奇蹟**。
 </div>
 
 [Isaiah 以賽亞書 8:18 (ESV/CUV) (p.3/9)](# "ref")
@@ -85,7 +76,7 @@ necromancers who chirp and mutter,”
 
 <div class="zh">
 有人對你們說：<br>
-當求問那些交鬼的和行巫術的，<br>
+當求問那些**交鬼**的和行**巫術**的，<br>
 就是聲音綿蠻， 言語微細的。
 </div>
 
@@ -98,8 +89,8 @@ on behalf of the **living**?
 
 <div class="zh">
 你們便回答說：<br>
-百姓不當求問自己的神嗎？<br>
-豈可為活人求問死人呢？
+百姓不當求問自己的**神**嗎？<br>
+豈可為**活人**求問**死人**呢？
 </div>
 
 [Isaiah 以賽亞書 8:19b (ESV/CUV) (p.5/9)](# "ref")
@@ -111,9 +102,9 @@ If they will not speak according to this **word**, <br/>
 it is because they have no **dawn**.
 
 <div class="zh">
-人當以訓誨和法度為標準； <br>
-他們所說的， 若不與此相符， <br>
-必不得見晨光。
+人當以**訓誨**和**法度**為標準； <br>
+他們所說的， 若不與此**相符**， <br>
+必不得見**晨光**。
 </div>
 
 [Isaiah 以賽亞書 8:20 (ESV/CUV) (p.6/9)](# "ref")
@@ -125,7 +116,7 @@ greatly **distressed** and hungry.
 
 <div class="zh">
 他們必經過這地， <br>
-受艱難， 受飢餓；
+受**艱難**， 受**飢餓**；
 </div>
 
 [Isaiah 以賽亞書 8:21a (ESV/CUV) (p.7/9)](# "ref")
@@ -137,8 +128,8 @@ and will speak **contemptuously** <br/>
 against their **king** and their **God**,
 
 <div class="zh">
-飢餓的時候， 心中焦躁， <br>
-咒罵自己的君王和自己的神。
+飢餓的時候， 心中**焦躁**， <br>
+**咒罵**自己的**君王**和自己的**神**。
 </div>
 
 [Isaiah 以賽亞書 8:21b (ESV/CUV) (p.8/9)](# "ref")
@@ -152,9 +143,9 @@ the gloom of anguish. <br>
 And they will be thrust into thick **darkness**.
 
 <div class="zh">
-仰觀上天， 俯察下地， 不料， <br>
-盡是艱難、 黑暗， 和幽暗的痛苦。<br>
-他們必被趕入烏黑的黑暗中去。
+仰觀**上天**， 俯察**下地**， 不料， <br>
+盡是**艱難**、 **黑暗**， 和幽暗的**痛苦**。<br>
+他們必被趕入烏黑的**黑暗中**去。
 </div>
 
 [Isaiah 以賽亞書 8:22 (ESV/CUV) (p.9/9)](# "ref")
@@ -197,8 +188,8 @@ ______
 **seal** the **teaching** among my disciples.
 
 <div class="zh">
-你要捲起律法書， <br>
-在我門徒中間封住訓誨。
+你要捲起律**法書**， <br>
+在我門徒中間封住**訓誨**。
 </div>
 
 [Isaiah 以賽亞書 8:16 (ESV/CUV)](# "ref")
@@ -221,9 +212,9 @@ from the house of Jacob,<br/>
 and I will **hope** in him.
 
 <div class="zh">
-我要等候 <br>
-那掩面不顧雅各家的耶和華； <br>
-我也要仰望他。
+我要**等候** <br>
+那**掩面不顧**雅各家的耶和華； <br>
+我也要**仰望**他。
 </div>
 
 [Isaiah 以賽亞書 8:17 (ESV/CUV)](# "ref")
@@ -245,9 +236,9 @@ you and **Shear-Jashub** your son ...<br>
 Say to him, "Be careful, be **quiet**, do not fear"
 
 <div class="zh">
-你和你的兒子施亞雅述出去，...<br>
+你和你的兒子**施亞雅述**出去，...<br>
 去迎接亞哈斯， 對他說：<br>
-你要謹慎安靜， 不要 ... 害怕
+你要**謹慎安靜**， 不要 ... 害怕
 </div>
 
 [Isaiah 以賽亞書 7:3-4 (ESV/CUV)](# "ref")
@@ -271,9 +262,9 @@ leave **stumps** when they are cut down,
 so the **holy seed** will be the stump in the land.
 
 <div class="zh">
-像栗樹、 橡樹雖被砍伐，<br>
-樹墩子卻仍存留。<br>
-這聖潔的種類在國中也是如此。
+像**栗樹**、 **橡樹**雖被砍伐，<br>
+**樹墩子**卻仍存留。<br>
+這**聖潔的種類**在國中也是如此。
 </div>
 
 [Isaiah 以賽亞書 6:13 (ESV/CUV)](# "ref")
@@ -309,7 +300,7 @@ therefore also through Him is our **Amen**
 ---
 <!-- .slide: data-background="white" -->
 ## Is our family **waiting** for God to save His **remnant**?
-## <span class="zh">我的家庭在等候神拯救衪的餘民嗎?</span>
+## <span class="zh">我的家庭在**等候**神<br>拯救衪的**餘民**嗎?</span>
 
 >>>
 + **know** what God has promised
@@ -367,7 +358,7 @@ for before the boy knows how to cry  <br/>
 ‘My **father**’ or ‘My **mother**,’
 
 <div class="zh">
-給他起名叫**瑪黑珥沙拉勒哈施罷斯**；
+給他起名叫**瑪黑珥沙拉勒哈施罷斯**；<br>
 因為在這小孩子不曉得**叫父叫母**之先，
 </div>
 
@@ -380,8 +371,8 @@ and the spoil of **Samaria**  <br/>
 will be **carried away** before the king of Assyria.
 
 <div class="zh">
-大馬色的財寶和撒瑪利亞的擄物<br>
-必在亞述王面前搬了去。
+**大馬色**的財寶和**撒瑪利亞**的擄物<br>
+必在亞述王面前**搬了去**。
 </div>
 
 [Isaiah 以賽亞書 8:3-4 (ESV/CUV) (p.2/2)](# "ref")
@@ -405,8 +396,8 @@ Jesus came to Bethany, where **Lazarus** was, <br/>
 whom Jesus had **raised** from the dead.
 
 <div class="zh">
-耶穌來到伯大尼， <br>
-就是他叫拉撒路從死裡復活之處。
+耶穌來到**伯大尼**， <br>
+就是他叫**拉撒路**從死裡**復活**之處。
 </div>
 
 [John 約翰福音 12:1 (ESV/CUV) (p.1/4)](# "ref")
@@ -418,8 +409,8 @@ Lazarus was one of those **reclining** <br/>
 with him at table.
 
 <div class="zh">
-有人在那裡給耶穌預備筵席； <br>
-拉撒路也在那同耶穌坐席的人中。
+有人在那裡給耶穌預備**筵席**； <br>
+拉撒路也在那同耶穌**坐席**的人中。
 </div>
 
 [John 約翰福音 12:2 (ESV/CUV) (p.2/4)](# "ref")
@@ -431,8 +422,8 @@ When the large **crowd** of the Jews <br/>
 learned that **Jesus** was there, they **came**,
 
 <div class="zh">
-有許多猶太人知道耶穌在那裡，<br>
-就來了，
+有**許多**猶太人知道**耶穌**在那裡，<br>
+就**來了**，
 </div>
 
 [John 約翰福音 12:9a (ESV/CUV) (p.3/4)](# "ref")
@@ -444,8 +435,8 @@ but also to see **Lazarus**, <br/>
 whom he had **raised** from the dead.
 
 <div class="zh">
-不但是為耶穌的緣故，<br>
-也是要看他從死裡所復活的拉撒路。
+**不但**是為耶穌的緣故，<br>
+也是要看他從死裡所**復活**的**拉撒路**。
 </div>
 
 [John 約翰福音 12:9b (ESV/CUV) (p.4/4)](# "ref")
@@ -488,7 +479,7 @@ Lord of hosts, who dwells on Mount Zion.
 ---
 <!-- .slide: data-background="white" -->
 ## What is my family a **testimony** of?
-## <span class="zh">我的家庭是怎麼樣的**見証**?</span>
+## <span class="zh">我的家庭是<br>怎麼樣的**見証**?</span>
 
 >>>
 + **boast** of our accomplishments?
@@ -520,9 +511,9 @@ should not a people inquire of their **God**? <br/>
 
 <div class="zh">
 有人對你們說：<br>
-當求問那些交鬼的和行巫術的，<br>
-... 你們便回答說：<br>
-百姓不當求問自己的神嗎？<br>
+當求問那些**交鬼**的和行**巫術**的，<br>
+... 你們便**回答**說：<br>
+百姓不當求問自己的**神**嗎？<br>
 </div>
 
 [Isaiah 以賽亞書 8:19 (ESV/CUV)](# "ref")
@@ -537,9 +528,9 @@ If they will not speak according to this **word**, <br/>
 it is because they have no **dawn**.
 
 <div class="zh">
-人當以訓誨和法度為標準； <br>
-他們所說的， 若不與此相符， <br>
-必不得見晨光。
+人當以**訓誨**和**法度**為標準； <br>
+他們所說的， 若不與此**相符**， <br>
+必不得見**晨光**。
 </div>
 
 [Isaiah 以賽亞書 8:20 (ESV/CUV)](# "ref")
@@ -557,8 +548,8 @@ and will speak **contemptuously** <br/>
 against their **king** and their **God**,
 
 <div class="zh">
-飢餓的時候， 心中焦躁， <br>
-咒罵自己的君王和自己的神。
+飢餓的時候， 心中**焦躁**， <br>
+**咒罵**自己的**君王**和自己的**神**。
 </div>
 
 [Isaiah 以賽亞書 8:21b (ESV/CUV)](# "ref")
@@ -580,8 +571,8 @@ but behold, **distress** and darkness, <br/>
 the gloom of anguish.
 
 <div class="zh">
-仰觀上天， 俯察下地， 不料， <br>
-盡是艱難、 黑暗， 和幽暗的痛苦。
+仰觀**上天**， 俯察**下地**， 不料， <br>
+盡是**艱難**、 **黑暗**， 和幽暗的**痛苦**。
 </div>
 
 [Isaiah 以賽亞書 8:22 (ESV/CUV)](# "ref")
@@ -599,8 +590,8 @@ the **virgin** shall conceive and bear a son, <br/>
 and shall call his name **Immanuel**.
 
 <div class="zh">
-主自己要給你們一個兆頭，<br>
-必有童女懷孕生子，<br>
+**主自己**要給你們一個**兆頭**，<br>
+必有**童女**懷孕生子，<br>
 給他起名叫**以馬內利**
 </div>
 
@@ -613,8 +604,8 @@ and shall call his name **Immanuel**.
 
 ---
 <!-- .slide: data-background="white" -->
-## Does my family point to <br> God's **light** in <br> this **dark** world?
-## <span class="zh">在這黑暗世界中, 我的家庭有指向神的亮光嗎?</span>
+## Does my family <br> point to God's **light** <br> in this **dark** world?
+## <span class="zh">在這**黑暗**世界中, 我的<br>家庭有指向神的**亮光**嗎?</span>
 
 >>>
 + we grapple w/**darkness** in world today
