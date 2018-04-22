@@ -652,8 +652,16 @@ and shall call his name **Immanuel**.
 [Rembrandt, "Simeon's Song of Praise", 1631](# "caption")
 
 >>>
++ Even when **our** faith is **lacking**,
+  + God already had a **plan**
 + **Immanuel**: God with us
+  + not **unreachable** in heaven
+  + but God in **human** form
 + ch9: light **dawns** in the darkness
++ Jesus: came to **redeem** us
+  + pay for our **sins** on cross
++ &rArr; this is the **light**
+  + our world needs to **see**!
 
 ---
 <!-- .slide: data-background="white" -->
