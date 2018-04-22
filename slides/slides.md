@@ -18,7 +18,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the [purpose](#/outline) of **family**?
+# What is the purpose of [family](#/outline)?
 # <span class="zh">**家庭**的目的<br>是什麼?</span>
 
 >>>
@@ -661,13 +661,13 @@ and shall call his name **Immanuel**.
 ## <span class="zh">在這**黑暗**世界中, 我的<br>家庭有指向神的**亮光**嗎?</span>
 
 >>>
-+ we grapple w/**darkness** in world today
++ **darkness** in world today
 + but point to **light** in Immanuel
   + God with us
 + Let's **read** together v18,
-  + use it as a **dedication**
-  + our **families** (both natural + church)
-  + pointing to Jesus' **light**:
+  + use it as a **dedication**:
+  + may our **families** (natural + church)
+  + point to Jesus' **light**:
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
