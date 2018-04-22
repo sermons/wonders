@@ -8,8 +8,8 @@
 >>>
 + We live in **unstable** times
   + **job** security, **wars**, **unrest**
-+ How do we live as **families** in this era?
-  + e.g., after 9/11: some hesitated to have **kids**
++ How do we live as **families**?
+  + e.g., after 9/11: coworker hesitated to have **kids**
   + in such a **deadly** world
 + The story of **Isaiah** is that of
   + a **prophet** + his **family**
@@ -167,24 +167,14 @@ And they will be thrust into thick **darkness**.
 >>>
 + Today's encouragement is not only for
   + our **natural** families, but also
-  + our **church** family together, as part of
+  + our **church** family, as part of
   + the **global** body of Christ:
 + Our purpose as a family is to:
-  + **Wait** for the Lord to fulfill His promises
-  + **Testify** to God's power and judgment
+  + **Wait** for God to fulfill promises
+  + **Testify**: God's power + judgment
   + Bring God's **Word** made flesh, Jesus Christ, to the nations
-+ Along the way, we'll encounter 3 **children**
++ Along the way, look at 3 **children**
   + whose **names** each have important meaning.
-______
-+ **Waiting** for God is not easy!
-+ King **Uzziah**: righteous, 52yrs of **peace**
-  + but then **died**
-+ then God **calls** Isaiah
-  + but **waits** again for many years:
-+ son **Jotham**: good, but only 16yrs reign
-  + increasing **conflict** w/Israel, Aram
-+ son **Ahaz**: evil, 16yrs, open **war**
-  + &rArr; when God **spoke** again to Isaiah:
 
 ---
 <!-- .slide: <%= bg("flickr-telemax-8605734851-esther_scroll.jpg") %> -->
@@ -206,6 +196,7 @@ ______
 + God's word will **surely** be fulfilled
 + &rArr; **remember** His promises
   + **justice** + **mercy**
++ So Isaiah **responds**:
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
@@ -224,14 +215,18 @@ and I will **hope** in him.
 [Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
-+ **wait** (eager): for God's visitation
-+ when we feel God has **forgotten** us
++ At this time, **Judah** was **threatened**
+  + by 2 nations: **Aram** + **Israel**
++ Judah's King **Ahaz** was **wicked**:
+  + trusted in own **army** + **allies**
++ felt like God **hid** His face
+  + has **forgotten** us
 + when others **give up** on God
   + and trust in **themselves**
-+ &rArr; keep **hope** in God
-+ when Aram + Israel **threaten** Judah/Ahaz:
-  + God **speaks** to Isaiah
-  + to **speak** to Ahaz:
++ &rArr; **wait** (eager): for God's visitation
+  + keep **hope** in God
++ In ch7 just prior, God tells Isaiah
+  + to **instruct** King Ahaz:
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -252,12 +247,15 @@ Say to him, "Be careful, be **quiet**, do not fear"
 + "careful": **watch** (yourself), to **keep** God's commands
   + "**quiet**": undisturbed, not shaken
   + "**fear**" + **faint**-hearted
++ &rArr; **trust** in God
+  + not **own** strength
 + God told Isaiah to take **son** along:
   + both to **learn** + to **testify**
-  + *She-ar-yashub*: a **remnant** will return
-+ even in Isaiah's **calling** in ch6:
-  + warning of **disaster**, judgment
-  + but promise of a remnant, a **stump**:
++ *She-ar-yashub*: a **remnant** will return
++ Core **message** of book of Isaiah
+  + e.g., Isaiah's **calling** in ch6:
++ warning of **disaster**, judgment, but
+  + promise of remnant, **stump**:
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -278,9 +276,10 @@ so the **holy seed** will be the stump in the land.
 + **oak**: 1st, preeminent, landmark
 + **stump**: stone, obelisk, (fort)
 + holy **Seed** (singular):
-  + (see Gen3:15: Seed will crush serpent)
+  + (Gen3:15: Seed will crush serpent)
   + A **remnant** redeemed by Jesus
-+ God's **promises** always **faithful**:
++ God's **promises** always **faithful**
+  + Paul says to the **Corinthians**:
 
 ---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
@@ -298,10 +297,13 @@ therefore also through Him is our **Amen**
 [Aaron Burden](https://unsplash.com/photos/fgmf2Eyrwm4 "caption")
 
 >>>
-+ Paul's promise to visit **Corinth**
-  + not wishy-washy "yes" + "no"
-+ but **promises** of God
-  + are **always** YES
++ Paul had promised to **visit** Corinth
+  + but **unable** to do so
+  + not **wishy-washy** "yes" + "no"
++ **Promises** of God are **always** YES
++ So when we pray, "**Amen**":
+  + **trust** God's faithfulness
+  + **obey** His commands
 
 ---
 <!-- .slide: data-background="white" -->
@@ -309,7 +311,8 @@ therefore also through Him is our **Amen**
 ## <span class="zh">我的家庭在**等候**神<br>拯救衪的**餘民**嗎?</span>
 
 >>>
-+ **know** what God has promised
++ when feels like God **hides** His face
++ &rArr; **know** what God has promised
 + **trust** His promises
   + don't **faint**
 + **obey** what He says
@@ -356,8 +359,8 @@ Lord of hosts, who dwells on Mount Zion.
   + draws **attention**
   + but not to **our** success
   + testify to **God's** power
-+ Heb 2:10-13 **Christ** brought many sons to glory
-+ Here the 2nd of Isaiah's **children** mentioned:
++ 2nd **child** of Isaiah named
+  + a few verses above, in ch8:
 
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
@@ -373,6 +376,9 @@ for before the boy knows how to cry  <br/>
 
 [Isaiah 以賽亞書 8:3-4 (ESV/CUV) (p.1/2)](# "ref")
 
+>>>
+(p.1/2)
+
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 the wealth of **Damascus**  <br/>
@@ -387,16 +393,19 @@ will be **carried away** before the king of Assyria.
 [Isaiah 以賽亞書 8:3-4 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
-+ sign of coming **judgment**
-+ "swift-plunder-haste-prey"
++ son was sign of coming **judgment**:
+  + *Maher-shalal-hash-baz*
+  + "swift-plunder-haste-prey"
   + pretty **awful** name, eh?
-+ **power** of God's **judgment**
++ **testify** to God's coming **judgment**
   + **hero** of story is **God**, not me
-+ (2Ch 28:5) Aram defeats Ahaz 
-  + (2Ch 28:22-23) Ahaz worship Aram gods (Is 8:6) 
-  + Assyria conquers Aram (2Ki 16), Israel (17), then fights Judah (18)
++ **Aram** defeats Ahaz (2Ch 28:5)
+  + Ahaz worships Aramean **gods** (2Ch 28:22-23) (Is 8:6) 
+  + **Assyria** conquers Aram (2Ki 16)
+  + then **Israel** (17), and **Judah** (18)
   + all this while kid is still a **baby**
-+ I'm just a **kid**, what can I do?
++ e.g., as teenager, **mission** trips w/parents
+  + I'm just a **kid**, what can I do?
   + &rArr; **Lazarus**, after raised:
 
 ---
@@ -412,6 +421,9 @@ whom Jesus had **raised** from the dead.
 [John 約翰福音 12:1 (ESV/CUV) (p.1/4)](# "ref")
 [Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
+>>>
+(p.1/4)
+
 ---
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 So they gave a **dinner** for him there. <br/>
@@ -426,6 +438,9 @@ with him at table.
 [John 約翰福音 12:2 (ESV/CUV) (p.2/4)](# "ref")
 [Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
+>>>
+(p.2/4)
+
 ---
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 When the large **crowd** of the Jews <br/>
@@ -438,6 +453,9 @@ learned that **Jesus** was there, they **came**,
 
 [John 約翰福音 12:9a (ESV/CUV) (p.3/4)](# "ref")
 [Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
+
+>>>
+(p.3/4)
 
 ---
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
@@ -454,12 +472,12 @@ whom he had **raised** from the dead.
 [Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
 >>>
-+ v10-11 Jews planned to **kill** Lazarus, too!
++ v10-11 Jews planned to **kill** Lazarus
   + (they should know Jesus can just **raise** him again!)
 + **How** did Laz **testify** to Jesus' power?
   + perform a mighty **miracle**?
-  + &rArr; just eating **dinner**!
-+ We **do** need to use **words** to communicate gospel
+  + no, just eating **dinner**!
++ We **do** need to use **words** to communicate the gospel
 + But our testimony is **also**:
   + I was **dead** in sin,
   + now am **alive** in Christ!
@@ -481,9 +499,13 @@ Lord of hosts, who dwells on Mount Zion.
 [Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
++ we are to be **signs**
+  + point to **God**, not ourselves
++ and **wonders** (draw attention)
+  + to His **power** + imminent **judgment**
 + our **story**: we are **alive** in Christ
   + not just going through **motions**
-  + have new **life**: set free from sin
+  + but new **life**: set free from sin
   + **deemed** righteous by God's grace
 + not how **holy** our family is
   + but how **merciful** God is
