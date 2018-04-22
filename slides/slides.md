@@ -515,22 +515,34 @@ Lord of hosts, who dwells on Mount Zion.
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 And when they say to you, <br/>
-“Inquire of the **mediums** [...]"
-
+“Inquire of the **mediums** [...]" <br>
 should not a people inquire of their **God**? <br/>
 
-<%= bible('is8.19', 'Isaiah 8:19 (ESV)', 'ESV') %>
+<div class="zh">
+有人對你們說：<br>
+當求問那些交鬼的和行巫術的，<br>
+... 你們便回答說：<br>
+百姓不當求問自己的神嗎？<br>
+</div>
+
+[Isaiah 以賽亞書 8:19 (ESV/CUV)](# "ref")
 
 >>>
 + where we **turn** in times of **distress**
 
 ---
 <!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
-To the **teaching** and to the **testimony**!
-
-If they will not speak <br/>
-according to this **word**, <br/>
+To the **teaching** and to the **testimony**! <br>
+If they will not speak according to this **word**, <br/>
 it is because they have no **dawn**.
+
+<div class="zh">
+人當以訓誨和法度為標準； <br>
+他們所說的， 若不與此相符， <br>
+必不得見晨光。
+</div>
+
+[Isaiah 以賽亞書 8:20 (ESV/CUV)](# "ref")
 
 >>>
 + **instr**: Torah, God's **design** for us 
@@ -540,13 +552,16 @@ it is because they have no **dawn**.
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 And when they are hungry, <br/>
-they will be **enraged**
-
+they will be **enraged** <br>
 and will speak **contemptuously** <br/>
-against their **king** and their **God**, <br/>
-and turn their faces **upward**.
+against their **king** and their **God**,
 
-<%= bible('is8.21', 'Isaiah 8:21 (ESV)', 'ESV') %>
+<div class="zh">
+飢餓的時候， 心中焦躁， <br>
+咒罵自己的君王和自己的神。
+</div>
+
+[Isaiah 以賽亞書 8:21b (ESV/CUV)](# "ref")
 
 >>>
 + **up**: curse king/country/God 
@@ -564,9 +579,12 @@ And they will look to the **earth**, <br/>
 but behold, **distress** and darkness, <br/>
 the gloom of anguish.
 
-And they will be thrust into thick **darkness**.
+<div class="zh">
+仰觀上天， 俯察下地， 不料， <br>
+盡是艱難、 黑暗， 和幽暗的痛苦。
+</div>
 
-<%= bible('is8.22', 'Isaiah 8:22 (ESV)', 'ESV') %>
+[Isaiah 以賽亞書 8:22 (ESV/CUV)](# "ref")
 
 >>>
 + but fighting against God is **futile**
@@ -576,14 +594,17 @@ And they will be thrust into thick **darkness**.
 ---
 <!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
 Therefore the **Lord** himself <br/>
-will give you a **sign**.
-
-Behold, the **virgin** shall conceive <br>
-and bear a son, <br/>
+will give you a **sign**.  Behold, <br>
+the **virgin** shall conceive and bear a son, <br/>
 and shall call his name **Immanuel**.
 
-<%= bible('is7.14', 'Isaiah 7:14 (ESV)', 'ESV') %>
+<div class="zh">
+主自己要給你們一個兆頭，<br>
+必有童女懷孕生子，<br>
+給他起名叫**以馬內利**
+</div>
 
+[Isaiah 以賽亞書 7:14 (ESV/CUV)](# "ref")
 [Rembrandt, "Simeon's Song of Praise", 1631](# "caption")
 
 >>>
@@ -607,14 +628,17 @@ and shall call his name **Immanuel**.
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 Behold, I and the **children** <br/>
-whom the Lord has given me
+whom the Lord has given me <br>
+are **signs** and **portents** in Israel from the<br>
+Lord of hosts, who dwells on Mount Zion.
 
-are **signs** and portents in Israel
+<div class="zh">
+看哪， 我與耶和華所給我的**兒女**，<br>
+就是從住在錫安山萬軍之耶和華來的，<br>
+在以色列中作為**預兆**和**奇蹟**。
+</div>
 
-from the **Lord** of hosts, <br/>
-who dwells on Mount Zion.
-
-<%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
+[Isaiah 以賽亞書 8:18 (ESV/CUV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> class="empty" -->
