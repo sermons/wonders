@@ -3,6 +3,8 @@
 # <span class="zh">預兆 和 奇蹟</span>
 ## Isaiah 以賽亞書 8:16-22
 
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
+
 >>>
 + We live in **unstable** times
   + **job** security, **wars**, **unrest**
@@ -160,6 +162,8 @@ And they will be thrust into thick **darkness**.
 1. The **Word** Dwelling Among Us <br>
   <span class="zh">神的**話**住在我們中間</span> [(v19-22)](# "ref")
 
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
+
 >>>
 + Today's encouragement is not only for
   + our **natural** families, but also
@@ -193,7 +197,6 @@ ______
 </div>
 
 [Isaiah 以賽亞書 8:16 (ESV/CUV)](# "ref")
-
 [&copy; 2013 Tilemahos Efthimiadis, CC-BY-SA 2.0](https://www.flickr.com/photos/telemax/8605734851/ "caption")
 
 >>>
@@ -218,6 +221,7 @@ and I will **hope** in him.
 </div>
 
 [Isaiah 以賽亞書 8:17 (ESV/CUV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/iQWvVYMtv1k "caption")
 
 >>>
 + **wait** (eager): for God's visitation
@@ -242,6 +246,7 @@ Say to him, "Be careful, be **quiet**, do not fear"
 </div>
 
 [Isaiah 以賽亞書 7:3-4 (ESV/CUV)](# "ref")
+[qinghill, Parit, Malaysia](https://unsplash.com/photos/x8MZ2MoEKLE "caption")
 
 >>>
 + "careful": **watch** (yourself), to **keep** God's commands
@@ -267,6 +272,7 @@ so the **holy seed** will be the stump in the land.
 </div>
 
 [Isaiah 以賽亞書 6:13 (ESV/CUV)](# "ref")
+[qinghill, Parit, Malaysia](https://unsplash.com/photos/x8MZ2MoEKLE "caption")
 
 >>>
 + **oak**: 1st, preeminent, landmark
@@ -289,6 +295,7 @@ therefore also through Him is our **Amen**
 </div>
 
 [2 Corinthians 歌林多後書 1:20 (NASB/CUV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/fgmf2Eyrwm4 "caption")
 
 >>>
 + Paul's promise to visit **Corinth**
@@ -318,6 +325,8 @@ therefore also through Him is our **Amen**
 1. The Word Dwelling Among Us <br>
   <span class="zh">神的話住在我們中間</span> [(v19-22)](# "ref")
 
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
+
 >>>
 + as a **family** together, we:
 + (1) **wait** on God's promises
@@ -337,6 +346,7 @@ Lord of hosts, who dwells on Mount Zion.
 </div>
 
 [Isaiah 以賽亞書 8:18 (ESV/CUV)](# "ref")
+[Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
 + **sign**: points to God 
@@ -403,6 +413,7 @@ whom Jesus had **raised** from the dead.
 [Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
 ---
+<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 So they gave a **dinner** for him there. <br/>
 Lazarus was one of those **reclining** <br/>
 with him at table.
@@ -429,6 +440,7 @@ learned that **Jesus** was there, they **came**,
 [Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
 ---
+<!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
 not only on account of **him**, <br/>
 but also to see **Lazarus**, <br/>
 whom he had **raised** from the dead.
@@ -466,6 +478,7 @@ Lord of hosts, who dwells on Mount Zion.
 </div>
 
 [Isaiah 以賽亞書 8:18 (ESV/CUV)](# "ref")
+[Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
 + our **story**: we are **alive** in Christ
@@ -496,6 +509,8 @@ Lord of hosts, who dwells on Mount Zion.
 1. **The Word Dwelling Among Us** <br>
   <span class="zh">**神的話住在我們中間**</span> [(v19-22)](# "ref")
 
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
+
 >>>
 + (1) **wait** for God's promises
 + (2) **testify** to God's power
@@ -516,6 +531,7 @@ should not a people inquire of their **God**? <br/>
 </div>
 
 [Isaiah 以賽亞書 8:19 (ESV/CUV)](# "ref")
+[Nathan Anderson, Silverthorne, Colorado](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
 >>>
 + where we **turn** in times of **distress**
@@ -533,6 +549,7 @@ it is because they have no **dawn**.
 </div>
 
 [Isaiah 以賽亞書 8:20 (ESV/CUV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
 + **instr**: Torah, God's **design** for us 
@@ -552,6 +569,7 @@ against their **king** and their **God**,
 </div>
 
 [Isaiah 以賽亞書 8:21b (ESV/CUV)](# "ref")
+[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
 + **up**: curse king/country/God 
@@ -575,6 +593,7 @@ the gloom of anguish.
 </div>
 
 [Isaiah 以賽亞書 8:22 (ESV/CUV)](# "ref")
+[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
 + but fighting against God is **futile**
@@ -629,6 +648,7 @@ Lord of hosts, who dwells on Mount Zion.
 </div>
 
 [Isaiah 以賽亞書 8:18 (ESV/CUV)](# "ref")
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> class="empty" -->
