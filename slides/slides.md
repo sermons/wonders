@@ -404,13 +404,25 @@ will be **carried away** before the king of Assyria.
 Jesus came to Bethany, where **Lazarus** was, <br/>
 whom Jesus had **raised** from the dead.
 
-[2](# "ref")
+<div class="zh">
+耶穌來到伯大尼， <br>
+就是他叫拉撒路從死裡復活之處。
+</div>
+
+[John 約翰福音 12:1 (ESV/CUV) (p.1/4)](# "ref")
+[Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
+
+---
 So they gave a **dinner** for him there. <br/>
 Lazarus was one of those **reclining** <br/>
 with him at table.
 
-[John 12:1-2 (ESV/CUV) (p.1/2)](# "ref")
+<div class="zh">
+有人在那裡給耶穌預備筵席； <br>
+拉撒路也在那同耶穌坐席的人中。
+</div>
 
+[John 約翰福音 12:2 (ESV/CUV) (p.2/4)](# "ref")
 [Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
 ---
@@ -418,11 +430,26 @@ with him at table.
 When the large **crowd** of the Jews <br/>
 learned that **Jesus** was there, they **came**,
 
+<div class="zh">
+有許多猶太人知道耶穌在那裡，<br>
+就來了，
+</div>
+
+[John 約翰福音 12:9a (ESV/CUV) (p.3/4)](# "ref")
+[Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
+
+---
 not only on account of **him**, <br/>
 but also to see **Lazarus**, <br/>
 whom he had **raised** from the dead.
 
-<%= bible('jn12.9', 'John 12:9 (ESV) (p.2/2)', 'ESV') %>
+<div class="zh">
+不但是為耶穌的緣故，<br>
+也是要看他從死裡所復活的拉撒路。
+</div>
+
+[John 約翰福音 12:9b (ESV/CUV) (p.4/4)](# "ref")
+[Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
 >>>
 + v10-11 Jews planned to **kill** Lazarus, too!
@@ -436,16 +463,19 @@ whom he had **raised** from the dead.
   + now am **alive** in Christ!
 
 ---
-<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 Behold, I and the **children** <br/>
-whom the Lord has given me
+whom the Lord has given me <br>
+are **signs** and **portents** in Israel from the<br>
+Lord of hosts, who dwells on Mount Zion.
 
-are **signs** and portents in Israel
+<div class="zh">
+看哪， 我與耶和華所給我的**兒女**，<br>
+就是從住在錫安山萬軍之耶和華來的，<br>
+在以色列中作為**預兆**和**奇蹟**。
+</div>
 
-from the **Lord** of hosts, <br/>
-who dwells on Mount Zion.
-
-<%= bible('is8.18', 'Isaiah 8:18 (ESV)', 'ESV') %>
+[Isaiah 以賽亞書 8:18 (ESV/CUV)](# "ref")
 
 >>>
 + our **story**: we are **alive** in Christ
