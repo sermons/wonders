@@ -366,15 +366,25 @@ Call his name **Maher-shalal-hash-baz**; <br/>
 for before the boy knows how to cry  <br/>
 ‘My **father**’ or ‘My **mother**,’
 
+<div class="zh">
+給他起名叫**瑪黑珥沙拉勒哈施罷斯**；
+因為在這小孩子不曉得**叫父叫母**之先，
+</div>
+
+[Isaiah 以賽亞書 8:3-4 (ESV/CUV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 the wealth of **Damascus**  <br/>
 and the spoil of **Samaria**  <br/>
 will be **carried away** before the king of Assyria.
 
 <div class="zh">
-給 他 起 名 叫 瑪 黑 珥 沙 拉 勒 哈 施 罷 斯 ；
+大馬色的財寶和撒瑪利亞的擄物<br>
+必在亞述王面前搬了去。
 </div>
 
-[Isaiah 以賽亞書 8:3-4 (ESV/CUV)](# "ref")
+[Isaiah 以賽亞書 8:3-4 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + sign of coming **judgment**
@@ -399,7 +409,7 @@ So they gave a **dinner** for him there. <br/>
 Lazarus was one of those **reclining** <br/>
 with him at table.
 
-<%= bible('jn12.1-2', 'John 12:1-2 (ESV) (p.1/2)', 'ESV') %>
+[John 12:1-2 (ESV/CUV) (p.1/2)](# "ref")
 
 [Jean-Baptiste Jouvenet, "The Raising of Lazarus", 1706](# "caption")
 
