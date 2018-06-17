@@ -269,7 +269,7 @@ so the **holy seed** will be the stump in the land.
   + **promise** will return
   + kid is scared
   + but learns I **always** come back
-+ I'm unable to fulfill every promise I make
++ I'm unable to fulfill every promise
 + but **God** does:
 
 ---
@@ -386,14 +386,19 @@ will be **carried away** before the king of Assyria.
   + pretty **awful** name, eh?
 + **testify** to God's coming **judgment**
   + **hero** of story is **God**, not me
-+ **Aram** defeats Ahaz (2Ch 28:5)
++ God used Assyria to **defeat** all 3:
+  + Aram, Israel, Judah
+  + all this while kid is still a **baby**
++ e.g., summer **missions** w/parents
+  + I'm just a **kid**, what can I do?
+  + &rArr; **Lazarus**, after raised:
+
+______
+
++ ref: **Aram** defeats Ahaz (2Ch 28:5)
   + Ahaz worships Aramean **gods** (2Ch 28:22-23) (Is 8:6) 
   + **Assyria** conquers Aram (2Ki 16)
   + then **Israel** (17), and **Judah** (18)
-  + all this while kid is still a **baby**
-+ e.g., as teenager, short-term **mission** trips w/parents
-  + I'm just a **kid**, what can I do?
-  + &rArr; **Lazarus**, after raised:
 
 ---
 <!-- .slide: <%= bg("Jouvenet-The_Raising_of_Lazarus.jpg") %> -->
