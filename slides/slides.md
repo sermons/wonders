@@ -8,7 +8,7 @@
 >>>
 + We live in **unstable** times
   + **job** security, **wars**, **unrest**
-+ How do we live as **families**?
++ What **hopes** / dreams do we have for our children?
   + e.g., after 9/11: coworker hesitated to have **kids**
   + in such a **deadly** world
 + The story of **Isaiah** is that of
@@ -506,9 +506,12 @@ Lord of hosts, who dwells on Mount Zion.
   + point to **God**, not ourselves
 + and **wonders** (draw attention)
   + God's **power** + imminent **judgment**
++ kids love our **stories**:
+  + of when we were **young**
+  + of our **struggles**
+  + of **God's** faithfulness
 + our **story**: we are **alive** in Christ
-  + not just going through **motions**
-  + but new **life**: set free from sin
+  + new **life**: set free from sin
   + **deemed** righteous by God's grace
 + not how **holy** our family is
   + but how **merciful** God is
@@ -583,6 +586,10 @@ it is because they have no **dawn**.
 >>>
 + **instr**: Torah, God's **design** for us 
   + **testimy**: witness, God's **work** in us
++ **fathers**: take lead in **reading** Bible
+  + **serving** God
+  + **teaching** kids according to God's Word
+  + not **own** authority
 + **light of dawn**: Word as **lamp**
   + (Ps 119:105)
 
