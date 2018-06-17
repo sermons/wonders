@@ -13,8 +13,8 @@
 # <span class="zh">**家庭**的目的<br>是什麼?</span>
 
 >>>
-+ Is it "raise a **son**, so 
-  + he will **care** for me in old age"?
++ Is it raise a **son**, so 
+  + he will **care** for me in old age?
 + To leave a **legacy**
   + so I will be **remembered**?
 + **Achieve** what I could not?
