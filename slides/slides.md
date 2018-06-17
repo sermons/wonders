@@ -6,15 +6,6 @@
 [Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 >>>
-+ We live in **unstable** times
-  + **job** security, **wars**, **unrest**
-+ What **hopes** / dreams do we have for our children?
-  + e.g., after 9/11: coworker hesitated to have **kids**
-  + in such a **deadly** world
-+ The story of **Isaiah** is that of
-  + a **prophet** + his **family**
-  + amidst **unstable** times
-+ In these **uncertain** times:
 
 ---
 <!-- .slide: data-background="white" -->
@@ -22,11 +13,14 @@
 # <span class="zh">**家庭**的目的<br>是什麼?</span>
 
 >>>
-+ Is it "raise a **son**, so he will **care** for me in old age"?
-  + To leave a **legacy** / so I will be **remembered**?
-  + **Achieve** what I could not?
-+ God's **purpose** for family:
-  + To be a **witness** to God's **power**
++ Is it "raise a **son**, so 
+  + he will **care** for me in old age"?
++ To leave a **legacy**
+  + so I will be **remembered**?
++ **Achieve** what I could not?
++ **Isaiah** lived in unstable times
++ but God had **purpose** for his family
+  + be a **witness** to God's **power**
 
 ---
 [16](# "ref")
@@ -165,14 +159,11 @@ And they will be thrust into thick **darkness**.
 [Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 >>>
-+ Today's encouragement is not only for
-  + our **natural** families, but also
-  + our **church** family, as part of
-  + the **global** body of Christ:
 + Our purpose as a family is to:
   + **Wait** for God to fulfill promises
   + **Testify**: God's power + judgment
-  + Bring God's **Word** made flesh, Jesus Christ, to the nations
+  + Turn to God's **Word**:
+  + and word made **flesh**, Jesus Christ
 + Along the way, look at 3 **children**
   + whose **names** each have important meaning.
 
@@ -195,8 +186,7 @@ And they will be thrust into thick **darkness**.
   + but **preserve** for future
 + God's word will **surely** be fulfilled
 + &rArr; **remember** His promises
-  + **justice** + **mercy**
-+ So Isaiah **responds**:
+  + Isaiah **responds**:
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
@@ -220,11 +210,8 @@ and I will **hope** in him.
 + Judah's King **Ahaz** was **wicked**:
   + trusted in own **army** + **allies**
 + felt like God **hid** His face
-  + has **forgotten** us
-+ when others **give up** on God
-  + and trust in **themselves**
-+ &rArr; **wait** (eager): for God's visitation
-  + keep **hope** in God
+  + had **forgotten** them
++ **hope** in God's promises
 + In ch7 just prior, God tells Isaiah
   + to **instruct** King Ahaz:
 
@@ -244,25 +231,20 @@ Say to him, "Be careful, be **quiet**, do not fear"
 [qinghill, Parit, Malaysia](https://unsplash.com/photos/x8MZ2MoEKLE "caption")
 
 >>>
-+ "careful": **watch** (yourself), to **keep** God's commands
-  + "**quiet**": undisturbed, not shaken
-  + "**fear**" + **faint**-hearted
-+ v9 "If you will not **believe**,
-  + you surely shall not **last**"
-  + 你們若是不信， 定然不得立穩。
++ "careful": **watch** (yourself), 
+  + to **keep** God's commands
++ "**quiet**": undisturbed, not shaken
 + &rArr; **trust** in God
   + not **own** strength
-+ God told Isaiah to take **son** along:
-  + both to **learn** + to **testify**
-+ *She-ar-ya-shub*: a **remnant** will return
++ God told Isaiah to bring **son**:
+  + sign of God's **redemption**:
++ *She-ar ya-shub*: a **remnant** will return
 + Core **message** of book of Isaiah
   + e.g., Isaiah's **calling** in ch6:
-+ warning of **disaster**, judgment, but
-  + promise of remnant, **stump**:
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
-But as the terebinth and **oak** <br/>
+But as the terebinth and oak <br/>
 leave **stumps** when they are cut down, <br>
 so the **holy seed** will be the stump in the land.
 
@@ -276,13 +258,19 @@ so the **holy seed** will be the stump in the land.
 [qinghill, Parit, Malaysia](https://unsplash.com/photos/x8MZ2MoEKLE "caption")
 
 >>>
-+ **oak**: 1st, preeminent, landmark
++ warning of **disaster**, judgment
 + **stump**: stone, obelisk, (fort)
-+ holy **Seed** (singular):
+  + strong, not uprooted
++ "holy Seed" is **singular**:
+  + **Jesus** is our strong fortress
   + (Gen3:15: Seed will crush serpent)
-  + A **remnant** redeemed by Jesus
-+ God's **promises** always **faithful**
-  + Paul says to the **Corinthians**:
++ e.g. when kid was small:
+  + I need to use washroom
+  + **promise** will return
+  + kid is scared
+  + but learns I **always** come back
++ I'm unable to fulfill every promise I make
++ but **God** does:
 
 ---
 <!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
@@ -300,11 +288,9 @@ therefore also through Him is our **Amen**
 [Aaron Burden](https://unsplash.com/photos/fgmf2Eyrwm4 "caption")
 
 >>>
-+ Paul had promised to **visit** Corinth
-  + but **unable** to do so
-  + not **wishy-washy** "yes" + "no"
++ God doesn't **change mind**: "yes/no"
 + **Promises** of God are **always** YES
-+ So when we pray, "**Amen**":
++ praying "**Amen**" means:
   + **trust** God's faithfulness
   + **obey** His commands
 
@@ -315,10 +301,8 @@ therefore also through Him is our **Amen**
 
 >>>
 + when feels like God **hides** His face
-+ &rArr; **know** what God has promised
 + **trust** His promises
-  + don't **faint**
-+ **obey** what He says
++ just **obey** what He says
   + entrust the **rest** to Him
 
 ---
@@ -361,9 +345,9 @@ Lord of hosts, who dwells on Mount Zion.
 + **wonder**: miracle, amazement:
   + draws **attention**
   + but not to **our** success
-  + testify to **God's** power
+  + to **God's** power
 + 2nd **child** of Isaiah named
-  + a few verses above, in ch8:
+  + beginning of ch8:
 
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
@@ -502,17 +486,14 @@ Lord of hosts, who dwells on Mount Zion.
 [Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
-+ we are to be **signs**
-  + point to **God**, not ourselves
-+ and **wonders** (draw attention)
-  + God's **power** + imminent **judgment**
++ point to God's **power** + **judgment**
 + kids love our **stories**:
-  + of when we were **young**
-  + of our **struggles**
+  + of **stupid** things we did when we were **young**
+  + of our **struggles** / emotions
   + of **God's** faithfulness
-+ our **story**: we are **alive** in Christ
-  + new **life**: set free from sin
-  + **deemed** righteous by God's grace
++ e.g. dad's lifelong struggle w/**anger**
+  + remorse, saying "sorry"
+  + **prayer** asking God to change him
 + not how **holy** our family is
   + but how **merciful** God is
 
@@ -565,8 +546,8 @@ should not a people inquire of their **God**? <br/>
 >>>
 + people of **Judah** living in **fear**
   + threat of unwinnable **war**
-+ where we **turn** in times of **distress**
-  + reflects what I truly **believe**
++ where we **turn** in times of **crisis**
+  + reflects what we truly **believe**
 
 ---
 <!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
@@ -587,8 +568,7 @@ it is because they have no **dawn**.
 + **instr**: Torah, God's **design** for us 
   + **testimy**: witness, God's **work** in us
 + **fathers**: take lead in **reading** Bible
-  + **serving** God
-  + **teaching** kids according to God's Word
+  + **teach** kids acc. to God's Word
   + not **own** authority
 + **light of dawn**: Word as **lamp**
   + (Ps 119:105)
@@ -659,7 +639,7 @@ and shall call his name **Immanuel**.
 [Rembrandt, "Simeon's Song of Praise", 1631](# "caption")
 
 >>>
-+ Even when **our** faith is **lacking**,
++ Even when **we** lack faith,
   + God already had a **plan**
 + **Immanuel**: God with us
   + not **unreachable** in heaven
@@ -681,7 +661,7 @@ and shall call his name **Immanuel**.
   + God with us
 + Let's **read** together v18,
   + use it as a **dedication**:
-+ may our **families** (natural + church)
++ may our **families**
   + point to Jesus' **light**:
 
 ---
