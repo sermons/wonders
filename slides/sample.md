@@ -34,28 +34,19 @@ Six underscores create a horizontal rule in the notes
 ******
 <!-- six stars create a vertical slide -->
 ## Point One
-```
-class BSTNode:
-  def __init__(self, key=None,
-      par=None, left=None, right=None):
-    (self.key, self.par) = (key, par)
-    (self.left, self.right) = (left, right)
 
+```
 class BST:
   def __init__(self):
     self.root = None
 
-  def search(self, key):      # iterative search
+  def search(self, key): # iterative search
     cur = self.root
     while (cur != None):
-      if key &lt; cur.key:        # go left
-        cur = cur.left
-      else if key &gt; cur.key:   # go right
-        cur = cur.right
-      else:               # found it!
-        return cur
+      if key &lt; cur.key: cur = cur.left
+      else if key &gt; cur.key: cur = cur.right
+      else: return cur
 ```
-<!-- .element: data-line-numbers="14-17" -->
 
 ******
 <!-- .slide: data-background="white" -->

@@ -8,7 +8,7 @@
     "talks",
     "ppt"
   ],
-  "version": "1.7.3",
+  "version": "1.7.4",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "wonders.seanho.com",
@@ -104,18 +104,18 @@
         "integrity": "sha256-OxiHrn+gXudPDHxTvXiQzeFjZU/FllSSPmOOYAZ1O/g="
       },
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/styles/atom-one-dark.min.css",
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/atom-one-dark.min.css",
         "integrity": "sha256-GA29iW/iYj9FcuQQktvW45pRzHvZeFfgeFvA4tGVjpM="
       }
     ],
     "js": [
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/highlight.min.js",
-        "integrity": "sha256-AIeoCoYob+LP5IKqSqhSgagg7jY5XcJ3n/XEO7b/OX8="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js",
+        "integrity": "sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0="
       },
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.slim.js",
-        "integrity": "sha256-RtMTraB5gGlLER0FkKBcaXCmZCQCxkKS/dXm7MSEoEY="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.slim.js",
+        "integrity": "sha256-Dul4c09cdrWKXVtallPxF558lwxMwCC8dXJdZ0PVW54="
       },
       {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js",
@@ -139,8 +139,8 @@
   "private": true,
   "dependencies": {
     "reveal.js": "^3.8.0",
-    "highlight.js": "^9.15.9",
-    "socket.io": "^2.2.0",
+    "highlight.js": "^9.15.10",
+    "socket.io": "^2.3.0",
     "marked": "^0.7.0"
   },
   "devDependencies": {
@@ -148,11 +148,11 @@
     "load-grunt-tasks": "^5.1.0",
     "grunt-contrib-connect": "^2.1.0",
     "grunt-contrib-copy": "^1.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.0",
     "grunt-sass": "^3.1.0",
     "grunt-exec": "^3.0.0",
-    "qrcode": "^1.4.1",
-    "decktape": "^2.9.3"
+    "qrcode": "^1.4.4",
+    "decktape": "^2.10.0"
   },
   "scripts": {
     "postinstall": "grunt install",
