@@ -3,12 +3,11 @@
   "repository": "sermons/wonders",
   "description": "Is8:16-22 For Signs and Wonders",
   "keywords": [
-    "slides",
     "sermon",
-    "talks",
-    "ppt"
+    "isaiah",
+    "family"
   ],
-  "version": "1.7.4",
+  "version": "1.7.6",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "wonders.seanho.com",
@@ -122,8 +121,8 @@
         "integrity": "sha256-pv4AarTAzSO6lz+bbMPwmV29XMjkzmFOn601b2pWqXE="
       },
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/marked/0.7.0/marked.min.js",
-        "integrity": "sha256-0Ed5s/n37LIeAWApZmZUhY9icm932KvYkTVdJzUBiI4="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/marked/0.8.0/marked.min.js",
+        "integrity": "sha256-fIsvyYkI1qQV1tu1PdlM4FF43kW76YCnCcl/xJCD3Fc="
       },
       {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/plugin/markdown/markdown.min.js",
@@ -141,18 +140,18 @@
     "reveal.js": "^3.8.0",
     "highlight.js": "^9.15.10",
     "socket.io": "^2.3.0",
-    "marked": "^0.7.0"
+    "marked": "^0.8.0"
   },
   "devDependencies": {
     "grunt": "^1.0.4",
     "load-grunt-tasks": "^5.1.0",
     "grunt-contrib-connect": "^2.1.0",
     "grunt-contrib-copy": "^1.0.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "grunt-sass": "^3.1.0",
     "grunt-exec": "^3.0.0",
     "qrcode": "^1.4.4",
-    "decktape": "^2.10.0"
+    "decktape": "^2.11.0"
   },
   "scripts": {
     "postinstall": "grunt install",
